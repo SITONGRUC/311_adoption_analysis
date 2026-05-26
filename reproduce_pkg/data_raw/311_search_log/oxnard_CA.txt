@@ -1,0 +1,6 @@
+city: Oxnard
+state: CA
+adoption_year: 2016
+source_url: https://www.tricountysentry.com/articles/oxnard-311-continues-its-service/
+source_type: news
+evidence_note: Oxnard launched its 311 service in May 2016, per Tri-County Sentry reporting.

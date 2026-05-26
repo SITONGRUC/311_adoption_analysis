@@ -1,0 +1,6 @@
+city: Dayton
+state: OH
+adoption_year: 2014
+source_url: https://www.daytondailynews.com/news/new-dayton-app-helps-city-deliver-services/k9mx2vkmwQdVoGfrMKUxdI/
+source_type: news
+evidence_note: Dayton launched the "Dayton Delivers" non-emergency service request app in January 2014 following a late-2013 resident beta test.

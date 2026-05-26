@@ -1,0 +1,6 @@
+city: Allentown
+state: PA
+adoption_year: 2025
+source_url: https://www.wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/allentown-unveils-new-311-system-for-residents-to-report-non-emergency-issues-quickly/article_a5622c42-926e-4605-beb6-f08275ea5e07.html
+source_type: news
+evidence_note: Allentown unveiled a new 311 system on November 7, 2025, per WFMZ and an official city press release.

@@ -1,0 +1,80 @@
+\section{Hypothesis Test}
+
+% \paragraph{Data and design.}
+To test whether 311 adoption is associated with changes in city government spending,
+adoption dates from Section~1 are combined with the Census Annual Survey of
+Government Finances, Individual Unit Data, for 2017 through 2022
+\citep{census_govfin2022}.
+Total general expenditure per capita is constructed from the item-level fixed-width
+files by summing current-operations (E-prefix), capital-construction (F-prefix), and
+other-capital-outlay (G-prefix) items, plus general interest on debt (I89), while
+excluding utility enterprise operations.
+Cities are matched to the finance data directly via Census place FIPS code,
+achieving a 100\,\% match for the 153-city regression sample (99 adopted with known
+year plus 54 never-adopted cities).
+The estimator is two-way fixed effects (city and year fixed effects), with standard
+errors clustered at the city level.
+The primary data constraint is panel length: Individual Unit Finance files are
+publicly available only for 2017 through 2022, so cities that adopted before 2017
+appear as always-treated throughout the panel with no observable pre-period.
+The 148 cities with confirmed 311 but unknown adoption timing are excluded from
+the regression because the post-treatment indicator requires a specific year.
+
+% \paragraph{Baseline result.}
+Table~\ref{tab:twfe} reports estimates from two specifications.
+In the full sample (867 city-year observations), the coefficient on \texttt{post311}
+is $-0.025$ (SE $= 0.034$, $p = 0.47$), indicating no statistically or economically
+significant association between 311 adoption and log per capita total general
+expenditure.
+A sensitivity specification restricting to cities adopting after 2012 yields a
+similar estimate of $-0.020$ (SE $= 0.035$, $p = 0.56$).
+Both specifications are statistically insignificant; the high table $R^2$ reflects
+variance absorbed by city and year fixed effects, not the treatment indicator.
+
+\begin{table}[htbp]
+  \centering
+  \caption{Effect of 311 adoption on log per capita total general expenditure.}
+  \label{tab:twfe}
+  \input{../results/tables/tab_twfe.tex}
+\end{table}
+
+% \paragraph{Event study.}
+Figure~\ref{fig:eventstudy} presents event-study estimates for the subset of cities
+with observable pre- and post-adoption windows in the 2017--2022 panel.
+The treated group consists of 18 cities that adopted in 2019 through 2022, which are
+the only cohorts with non-reference pre-period observations given the panel start
+date.
+The control group is the 54 never-adopted cities.
+The event window is $[-3,\,+3]$ relative to the adoption year.
+Pre-period coefficients at $k=-3$ and $k=-2$ are small and statistically
+insignificant (0.047, SE\,$=$\,0.060; 0.012, SE\,$=$\,0.033), consistent with
+parallel pre-trends.
+Post-adoption coefficients are also insignificant throughout, though confidence
+intervals widen as cohort support thins.
+The bottom panel of the figure reports the number of treated cities contributing
+to each event-time cell; the coefficient at $k=+3$ (three cities) should not be
+interpreted.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.78\linewidth]{figures/fig_event_study.png}
+  \caption{Event-study estimates around 311 adoption.}
+  \label{fig:eventstudy}
+\end{figure}
+
+% \paragraph{Interpretation and limitations.}
+The null result is informative rather than the product of insufficient power alone.
+311 is primarily an administrative routing and case-management system whose direct
+operating costs are modest relative to total city expenditure.
+Three limitations qualify the findings.
+First, the panel covers 2017--2022 only; any fiscal adjustment predating 2017 is
+undetectable.
+Second, the event study uses 18 treated cities and is underpowered for detecting
+moderate-sized effects.
+Third, the regression sample skews toward larger, better-documented cities
+(mean population 497k), which may differ from smaller jurisdictions in how 311
+interacts with local fiscal management.
+
+\bigskip
+\noindent\textbf{AI tools.}
+Claude assisted throughout: data collection used a Claude agent for structured web searches, and analysis code was developed with Claude Code. The workflow involved iterative human--AI collaboration: planning, AI-assisted execution, and author review and revision at each stage.

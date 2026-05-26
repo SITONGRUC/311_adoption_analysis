@@ -1,0 +1,6 @@
+city: Springfield
+state: MO
+adoption_year: unknown
+source_url: https://www.springfieldmo.gov/1127/Citizen-Resource-Center
+source_type: official
+evidence_note: Springfield MO has a Citizen Resource Center (417-864-1010) and GoSpringfieldMO app for service requests; no formal 311 launch year was found.

@@ -1,0 +1,6 @@
+city: Phoenix
+state: AZ
+adoption_year: no_311
+source_url: https://www.phoenix.gov/pdd/myphx311
+source_type: official
+evidence_note: Phoenix uses myPHX311 portal and app (launched 2021) for service requests but does not operate a traditional 311 phone number.

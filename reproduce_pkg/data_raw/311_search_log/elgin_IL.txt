@@ -1,0 +1,6 @@
+city: Elgin
+state: IL
+adoption_year: 2014
+source_url: https://www.dailyherald.com/20140307/news/elgin-launches-new-311-contact-center/
+source_type: news
+evidence_note: Elgin IL launched a new 311 Contact Center quietly in January 2014, per Daily Herald reporting on March 7, 2014.

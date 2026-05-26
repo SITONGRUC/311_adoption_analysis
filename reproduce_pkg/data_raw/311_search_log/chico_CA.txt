@@ -1,0 +1,6 @@
+city: Chico
+state: CA
+adoption_year: no_311
+source_url: https://chicoca.gov
+source_type: official
+evidence_note: No 311 system was found for Chico CA; city uses departmental contacts and online code enforcement reporting only.

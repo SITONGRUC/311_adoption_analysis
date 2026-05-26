@@ -1,0 +1,6 @@
+city: Waterbury
+state: CT
+adoption_year: unknown
+source_url: https://www.waterburyct.org/311
+source_type: official
+evidence_note: Waterbury has a Citizens Service Center/311 for non-emergency requests; no specific launch year was found.

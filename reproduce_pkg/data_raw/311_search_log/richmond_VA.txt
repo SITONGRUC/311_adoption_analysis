@@ -1,0 +1,6 @@
+city: Richmond
+state: VA
+adoption_year: 2007
+source_url: http://seeclickfix.blogspot.com/2010/08/richmond-va-311-posting-all-service.html
+source_type: secondary
+evidence_note: A 2010 article about Richmond's 311 Customer Care Center stated the program launched "three years ago" under Mayor Wilder (2005-2009), placing the launch around 2007; Richmond was the first SeeClickFix city to route all 311 requests through that platform.

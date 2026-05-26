@@ -1,0 +1,6 @@
+city: Miami
+state: FL
+adoption_year: 2004
+source_url: https://www.miamidade.gov/311
+source_type: news
+evidence_note: Miami-Dade 311 has been operational since 2004, serving the City of Miami and surrounding county municipalities.

@@ -1,0 +1,6 @@
+city: Boston
+state: MA
+adoption_year: 2009
+source_url: https://www.boston.gov/departments/311
+source_type: official
+evidence_note: Boston launched its 311 system (BOS:311) in 2009.

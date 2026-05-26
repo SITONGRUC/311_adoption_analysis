@@ -1,0 +1,35 @@
+\begin{threeparttable}
+\begingroup
+\renewcommand\cellalign{t}
+\renewcommand\arraystretch{1}
+\setlength{\tabcolsep}{3pt}
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}l>{\centering\arraybackslash}X>{\centering\arraybackslash}X}
+\toprule
+ & \multicolumn{2}{c}{Log(exp.\ per capita)} \\
+\cmidrule(lr){2-3}
+ & (1) & (2) \\
+\midrule
+\addlinespace[1ex]
+post311 & -0.025 (0.034) & -0.020 (0.035) \\
+\addlinespace[0.5ex]
+\midrule
+\addlinespace[1ex]
+ Year FE & \checkmark & \checkmark \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+City FE  & \checkmark & \checkmark \\
+\addlinespace[0.5ex]
+\midrule
+\addlinespace[1ex]
+Observations & 867 & 630 \\
+\addlinespace[0.5ex]
+\addlinespace[0.5ex]
+$R^2$ & 0.966 & 0.95 \\
+\addlinespace[0.5ex]
+\bottomrule
+\end{tabularx}
+\endgroup
+\noindent\begin{minipage}{\linewidth}\smallskip\footnotesize
+Standard errors clustered at city level. Outcome: log total general expenditure per capita (Census Individual Unit Finance). Col. 1: all treated cities (adopted 1996–2022) + never-adopted controls. Col. 2: late adopters only (adopted 2012–2022) + never-adopted controls. Data: 2017–2022 only; cities adopting before 2017 are always-treated (no pre-period).\end{minipage}
+
+\end{threeparttable}

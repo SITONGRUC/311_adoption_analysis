@@ -1,0 +1,6 @@
+city: Brockton
+state: MA
+adoption_year: unknown
+source_url: https://brockton.ma.us/online-services/seeclickfix/
+source_type: official
+evidence_note: Brockton uses SeeClickFix for citizen reporting; no dedicated 311 number or verifiable launch year was found.

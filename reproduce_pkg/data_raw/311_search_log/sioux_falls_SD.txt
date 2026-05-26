@@ -1,0 +1,6 @@
+city: Sioux Falls
+state: SD
+adoption_year: 2019
+source_url: https://siouxfalls.org/news/2020/03/11/onelink-bday
+source_type: official
+evidence_note: Sioux Falls launched the OneLink 311 mobile app in 2019, celebrating its first anniversary in March 2020.

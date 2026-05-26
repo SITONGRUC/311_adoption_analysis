@@ -1,0 +1,6 @@
+city: Waco
+state: TX
+adoption_year: unknown
+source_url: https://www.waco-texas.com/Departments/MyWaco-Central
+source_type: official
+evidence_note: Waco operates MyWaco Central (CitySourced) for citizen service requests; no specific launch year for a formal 311 system was found.

@@ -1,0 +1,6 @@
+city: Henderson
+state: NV
+adoption_year: unknown
+source_url: https://www.hendersonlive.com/311
+source_type: official
+evidence_note: Henderson NV routes non-emergency calls through 311, but the year the 311 number was activated could not be confirmed.

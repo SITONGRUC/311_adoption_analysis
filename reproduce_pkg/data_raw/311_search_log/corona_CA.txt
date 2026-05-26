@@ -1,0 +1,6 @@
+city: Corona
+state: CA
+adoption_year: unknown
+source_url: https://311.coronaca.gov
+source_type: official
+evidence_note: Corona operates a Citizen 311 portal (311.coronaca.gov); no specific launch year was found in available sources.

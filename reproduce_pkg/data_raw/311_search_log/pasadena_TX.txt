@@ -1,0 +1,6 @@
+city: Pasadena
+state: TX
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No dedicated 311 system was found for Pasadena TX; city uses departmental phone numbers and online contacts.

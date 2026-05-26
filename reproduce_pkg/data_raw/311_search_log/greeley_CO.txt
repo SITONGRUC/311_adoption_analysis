@@ -1,0 +1,6 @@
+city: Greeley
+state: CO
+adoption_year: 2025
+source_url: https://citizenportal.ai/articles/6138145/Greeley-City/Weld-County/Colorado/Greeley-launches-Innovation-and-High-Performance-department-website-311-and-utility-billing-upgrades-highlighted
+source_type: news
+evidence_note: Greeley soft-launched a 311 self-service portal in July 2025, per CitizenPortal.ai reporting.

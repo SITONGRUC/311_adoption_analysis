@@ -1,0 +1,6 @@
+city: Montgomery
+state: AL
+adoption_year: unknown
+source_url: https://www.montgomeryal.gov/residents/report-an-issue
+source_type: official
+evidence_note: City of Montgomery's official website confirms 311 service exists for non-emergency city services but no source specifies the original launch year.

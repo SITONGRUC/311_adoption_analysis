@@ -1,0 +1,6 @@
+city: Columbia
+state: SC
+adoption_year: 2012
+source_url: https://www.thecolumbiastar.com/articles/city-announces-new-customer-care-center-and-24-hour-hotline/
+source_type: news
+evidence_note: The Columbia Star reports that starting July 1, 2012 the City of Columbia launched its Customer Care Center with a 24-hour hotline at 545-3300, to which all local 311 calls in the Midlands are forwarded.

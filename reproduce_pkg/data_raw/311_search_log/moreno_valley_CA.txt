@@ -1,0 +1,6 @@
+city: Moreno Valley
+state: CA
+adoption_year: unknown
+source_url: https://www.morenovalleyca.gov/city-hall/departments-divisions/public-works/report-a-concern
+source_type: official
+evidence_note: Moreno Valley uses MoVal 24/7 (GoGov) for service requests; no prior formal 311 launch year was found in available sources.

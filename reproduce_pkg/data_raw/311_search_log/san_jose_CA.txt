@@ -1,0 +1,6 @@
+city: San Jose
+state: CA
+adoption_year: 2009
+source_url: https://www.govtech.com/dc/articles/san-jose-pilots-an-iphone-app.html
+source_type: news
+evidence_note: GovTech reports San Jose launched its 311 mobile pilot on December 15, 2009 via CitySourced; an earlier phone-based 311 call center may have predated this but could not be confirmed.

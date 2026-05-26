@@ -1,0 +1,6 @@
+city: Jurupa Valley
+state: CA
+adoption_year: unknown
+source_url: https://www.jurupavalley.org/608/My-Jurupa-Valley-App
+source_type: official
+evidence_note: Jurupa Valley uses the "My Jurupa Valley" GOGov app for citizen service requests; no dedicated 311 number or verifiable launch year was found.

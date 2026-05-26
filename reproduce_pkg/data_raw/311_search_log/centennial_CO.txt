@@ -1,0 +1,6 @@
+city: Centennial
+state: CO
+adoption_year: unknown
+source_url: https://www.centennialco.gov/Online-Services
+source_type: official
+evidence_note: Centennial has a "Report-a-Problem" online portal; no dedicated 311 number or verifiable launch year was found.

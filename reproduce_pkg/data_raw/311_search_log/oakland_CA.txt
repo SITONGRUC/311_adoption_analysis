@@ -1,0 +1,6 @@
+city: Oakland
+state: CA
+adoption_year: 2018
+source_url: https://oaklandnorth.net/2018/04/26/oakland-launches-oak-311-for-residents-to-report-immediate-maintenance-problems/
+source_type: news
+evidence_note: Oakland North reports Oakland officially launched the unified OAK 311 system (phone, website, app) in April 2018; prior service used SeeClickFix without unified 311 branding (note: O'Byrne 2015 flags Oakland as adopted by 2012, possibly counting earlier call-center service).

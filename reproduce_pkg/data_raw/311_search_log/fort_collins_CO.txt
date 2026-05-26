@@ -1,0 +1,6 @@
+city: Fort Collins
+state: CO
+adoption_year: 2011
+source_url: https://collegian.com/articles/news/2022/04/category-news-access-fort-collins-a-place-for-all-your-questions-and-requests/
+source_type: news
+evidence_note: "Access Fort Collins" citizen service system was created in 2011, per Rocky Mountain Collegian reporting.

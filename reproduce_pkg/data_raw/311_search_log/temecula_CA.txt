@@ -1,0 +1,6 @@
+city: Temecula
+state: CA
+adoption_year: unknown
+source_url: https://seeclickfix.com/temecula
+source_type: secondary
+evidence_note: Temecula uses SeeClickFix for citizen service requests; no dedicated 311 branding or launch year was found.

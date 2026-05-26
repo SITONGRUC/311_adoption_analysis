@@ -1,0 +1,6 @@
+city: Lubbock
+state: TX
+adoption_year: 2009
+source_url: https://www.kcbd.com/story/9674985/lubbock-launches-311-non-emergency-call-line/
+source_type: news
+evidence_note: KCBD news article "Lubbock Launches 311 Non-Emergency Call Line" documents the 2009 launch; the 311 number received more than 100 calls in its first few hours of operation.

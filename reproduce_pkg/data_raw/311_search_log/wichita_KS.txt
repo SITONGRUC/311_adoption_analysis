@@ -1,0 +1,6 @@
+city: Wichita
+state: KS
+adoption_year: unknown
+source_url: https://www.wichita.gov/311
+source_type: official
+evidence_note: Wichita operates a 311 system and app, but the launch year of the 311 service could not be verified from available sources.

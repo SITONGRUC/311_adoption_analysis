@@ -1,0 +1,6 @@
+city: Rockford
+state: IL
+adoption_year: unknown
+source_url: https://icma.org/documents/rockford-il-311-call-center-services
+source_type: secondary
+evidence_note: ICMA documents reference Rockford IL 311 Call Center Services and the city has a Customer Service department, but no specific launch year was found.

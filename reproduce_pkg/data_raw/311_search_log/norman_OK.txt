@@ -1,0 +1,6 @@
+city: Norman
+state: OK
+adoption_year: no_311
+source_url: https://www.normanok.gov/city-services/action-center
+source_type: official
+evidence_note: Norman OK uses an Action Center phone/portal (405-366-5396) for service requests; no formal 311 system was found.

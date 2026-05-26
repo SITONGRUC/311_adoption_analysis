@@ -1,0 +1,6 @@
+city: Pompano Beach
+state: FL
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: Pompano Beach FL has no 311 system; non-emergency calls are handled by the Broward Sheriff's Office non-emergency number.

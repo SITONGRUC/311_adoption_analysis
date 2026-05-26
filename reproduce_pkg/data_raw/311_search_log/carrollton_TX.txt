@@ -1,0 +1,6 @@
+city: Carrollton
+state: TX
+adoption_year: no_311
+source_url: https://www.cityofcarrollton.com/residents
+source_type: official
+evidence_note: Carrollton TX uses a non-emergency line (972-466-3333) and SeeClickFix for service requests; no formal 311 branding or system was found.

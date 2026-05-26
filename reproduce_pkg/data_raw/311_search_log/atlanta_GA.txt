@@ -1,0 +1,6 @@
+city: Atlanta
+state: GA
+adoption_year: 2014
+source_url: https://www.atlantaga.gov/311
+source_type: news
+evidence_note: ATL311 officially opened on October 22, 2014 as Atlanta's centralized non-emergency service request system.

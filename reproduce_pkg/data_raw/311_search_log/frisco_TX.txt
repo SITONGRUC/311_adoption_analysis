@@ -1,0 +1,6 @@
+city: Frisco
+state: TX
+adoption_year: unknown
+source_url: https://www.friscotexas.gov/311
+source_type: official
+evidence_note: Frisco has a citizen service request portal but no dedicated 311 system or verifiable launch year was found in available sources.

@@ -1,0 +1,6 @@
+city: San Diego
+state: CA
+adoption_year: no_311
+source_url: https://www.sandiego.gov/getitdone
+source_type: official
+evidence_note: San Diego uses the "Get It Done" app (launched 2016) for non-emergency service requests; no 311 phone number is operated.

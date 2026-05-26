@@ -1,0 +1,6 @@
+city: Murfreesboro
+state: TN
+adoption_year: unknown
+source_url: https://www.murfreesborotn.gov/
+source_type: official
+evidence_note: No evidence of a formal 311 system in Murfreesboro; city lists departmental contacts but no dedicated 311 service or launch year was found.

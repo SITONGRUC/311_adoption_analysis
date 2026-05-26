@@ -1,0 +1,6 @@
+city: Billings
+state: MT
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No 311 system was found for Billings MT; city uses a non-emergency police line (406-657-8200) and direct department contacts.

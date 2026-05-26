@@ -1,0 +1,6 @@
+city: San Francisco
+state: CA
+adoption_year: 2007
+source_url: https://sf311.org/
+source_type: official
+evidence_note: San Francisco SF311 launched in 2007.

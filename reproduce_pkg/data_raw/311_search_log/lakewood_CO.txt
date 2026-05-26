@@ -1,0 +1,6 @@
+city: Lakewood
+state: CO
+adoption_year: unknown
+source_url: https://cityoflakewood.us/mylakewood311/
+source_type: official
+evidence_note: Lakewood operates MyLakewood311 for citizen service requests; no specific launch year was found.

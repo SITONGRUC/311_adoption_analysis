@@ -1,0 +1,6 @@
+city: Killeen
+state: TX
+adoption_year: unknown
+source_url: https://www.killeen311.com/
+source_type: official
+evidence_note: Killeen operates killeen311.com and the Killeen Connect app (SeeClickFix) for service requests; no specific launch year was found.

@@ -1,0 +1,29 @@
+\section{Data Compilation}
+
+% \paragraph{City sample.}
+The analysis covers all incorporated US places with a 2020 population of at least
+100{,}000, drawn from the Census Bureau's Population Estimates Program sub-county
+file \citep{census_pep2023}, joined to the 2023
+Census Gazetteer \citep{census_gaz2023} for geographic attributes.
+This yields 314 cities across 44 states.
+The 100{,}000-person threshold matches the population band covered by
+\citet{obyrne2015}, the only systematic academic survey of 311 adoption, which
+enables external validation of search results against a fully independent source.
+
+% \paragraph{Adoption-year search.}
+The primary data-collection method is a structured web search for each of the 314
+cities, conducted by a Claude AI agent following a documented protocol.
+Sources searched in order: the city's official 311 webpage, mayor's office
+announcements, GovTech and Governing magazine coverage, and targeted query strings.
+Each city produced a structured log file recording the adoption year, source URL,
+source type (official, news, or secondary), and a one-sentence evidence note.
+In result, 121 returned a verified adoption year, 55 showed no evidence of
+a 311 system, and 138 had evidence of 311 but no verifiable launch year.
+
+Search results are cross-validated against \citet{obyrne2015}, providing a fully
+independent quality check: the corrected agreement rate is 85.9\,\%, the
+false-negative rate is zero, and 13 boundary conflicts are excluded to a held-out
+review set.
+A formal-311 definitional filter further requires that evidence explicitly reference
+``311'' branding, yielding a final main sample of 301 cities (99 with a verified
+adoption year, 148 with confirmed 311 but unknown year, 54 with no 311 system).

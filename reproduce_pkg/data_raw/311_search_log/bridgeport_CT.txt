@@ -1,0 +1,6 @@
+city: Bridgeport
+state: CT
+adoption_year: 2012
+source_url: https://patch.com/connecticut/bridgeport/mayor-ganim-launches-bridgeport-311-citizen-reporting-tool
+source_type: news
+evidence_note: Bridgeport launched the BConnected citizen reporting app in 2012 under Mayor Finch; replaced in 2016 by "Bridgeport 311" (SeeClickFix) under Mayor Ganim.

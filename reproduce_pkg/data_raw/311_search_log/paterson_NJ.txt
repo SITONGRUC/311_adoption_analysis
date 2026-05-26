@@ -1,0 +1,6 @@
+city: Paterson
+state: NJ
+adoption_year: unknown
+source_url: https://www.pattersonnj.gov/services
+source_type: official
+evidence_note: Paterson uses SeeClickFix for citizen service requests; no dedicated 311 number or launch year was found.

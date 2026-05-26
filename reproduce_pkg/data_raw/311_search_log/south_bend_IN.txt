@@ -1,0 +1,6 @@
+city: South Bend
+state: IN
+adoption_year: 2013
+source_url: https://www.wndu.com/2023/02/24/south-bends-311-call-center-celebrates-10-year-anniversary/
+source_type: news
+evidence_note: South Bend's 311 call center launched in early 2013 under Mayor Pete Buttigieg; the city celebrated the 10th anniversary in February 2023.

@@ -1,0 +1,6 @@
+city: Peoria
+state: AZ
+adoption_year: no_311
+source_url: https://www.peoriaaz.gov/residents/utilities
+source_type: official
+evidence_note: Peoria AZ uses MyPeoriaAZ app and a direct non-emergency number for service requests; no 311 system was found.

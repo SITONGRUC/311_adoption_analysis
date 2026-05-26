@@ -1,0 +1,6 @@
+city: Newark
+state: NJ
+adoption_year: 2008
+source_url: https://thenewarktimes.com/baraka-administration-announces-overhaul-4311-non-emergency-response-center/
+source_type: news
+evidence_note: Multiple sources confirm Newark launched its 4311 non-emergency consolidated call center in September 2008 under Mayor Cory Booker.

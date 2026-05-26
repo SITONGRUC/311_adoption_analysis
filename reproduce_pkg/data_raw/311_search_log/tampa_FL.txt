@@ -1,0 +1,6 @@
+city: Tampa
+state: FL
+adoption_year: unknown
+source_url: https://www.tampa.gov/311
+source_type: official
+evidence_note: Tampa operates a 311 system (Tampa Connect CRM), but the launch year could not be confirmed from available sources.

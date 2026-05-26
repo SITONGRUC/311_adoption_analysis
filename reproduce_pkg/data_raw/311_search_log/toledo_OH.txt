@@ -1,0 +1,6 @@
+city: Toledo
+state: OH
+adoption_year: 2015
+source_url: https://toledo.oh.gov/engage-toledo
+source_type: official
+evidence_note: "Engage Toledo" launched in October 2015 as Toledo's 24/7 citizen service request platform.

@@ -1,0 +1,6 @@
+city: Pasadena
+state: CA
+adoption_year: 2009
+source_url: https://pasadenanow.com/main/city-launches-information-services-hotline
+source_type: news
+evidence_note: Pasadena launched its 311 Citizen Service Center on January 24, 2009, handling approximately 75,000 calls annually.

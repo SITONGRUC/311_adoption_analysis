@@ -1,0 +1,6 @@
+city: Lynn
+state: MA
+adoption_year: 2024
+source_url: https://itemlive.com/2024/03/20/seeclickfix-launches-in-lynn/
+source_type: news
+evidence_note: Lynn MA officially launched SeeClickFix as its 311 reporting platform in March 2024, per Item Live reporting.

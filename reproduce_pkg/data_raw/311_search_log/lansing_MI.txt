@@ -1,0 +1,6 @@
+city: Lansing
+state: MI
+adoption_year: 2022
+source_url: https://www.fox47news.com/neighborhoods/downtown-old-town-reo-town/the-city-of-lansing-officially-launches-311-program
+source_type: news
+evidence_note: Lansing officially launched its "One Call to City Hall" 311 program in May 2022, per Fox47 News.

@@ -1,0 +1,6 @@
+city: Providence
+state: RI
+adoption_year: 2017
+source_url: https://www.providenceri.gov/mayor-elorza-launches-3-1-1-hotline-mobile-app-service-requests/
+source_type: official
+evidence_note: City of Providence official press release documents Mayor Elorza launching the 3-1-1 hotline and PVD311 mobile app through the Mayor's Center for City Services in 2017.

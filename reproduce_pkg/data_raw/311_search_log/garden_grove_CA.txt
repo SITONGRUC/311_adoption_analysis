@@ -1,0 +1,6 @@
+city: Garden Grove
+state: CA
+adoption_year: unknown
+source_url: https://www.ci.garden-grove.ca.us/services
+source_type: official
+evidence_note: Garden Grove uses SeeClickFix for citizen reporting; no dedicated 311 number or launch year was found.

@@ -1,0 +1,6 @@
+city: Sacramento
+state: CA
+adoption_year: 2008
+source_url: https://www.esri.com/about/newsroom/blog/sacrament-311-system-spatial-integration
+source_type: secondary
+evidence_note: Esri case study states Sacramento's 311 launched in 2008 and logs approximately 500,000 interactions per year.

@@ -1,0 +1,6 @@
+city: Elk Grove
+state: CA
+adoption_year: unknown
+source_url: https://www.elkgrovecity.org/services/online_services/seeclickfix
+source_type: official
+evidence_note: Elk Grove uses SeeClickFix for citizen issue reporting; no specific launch year was found.

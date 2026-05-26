@@ -1,0 +1,6 @@
+city: Concord
+state: CA
+adoption_year: unknown
+source_url: https://www.concordca.gov/residents/report-a-problem
+source_type: official
+evidence_note: Concord CA uses the "Concord Connect" app (PublicStuff) for citizen service requests; no specific launch year was found.

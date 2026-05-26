@@ -1,0 +1,6 @@
+city: Alexandria
+state: VA
+adoption_year: 2020
+source_url: https://www.alxnow.com/2025/12/15/alexandria-launches-updated-alex311-customer-service-portal-app/
+source_type: news
+evidence_note: Alex311 launched in February 2020, replacing the prior Call.Click.Connect system, per ALXnow reporting.

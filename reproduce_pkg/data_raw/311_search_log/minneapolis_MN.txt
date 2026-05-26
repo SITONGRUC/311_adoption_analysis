@@ -1,0 +1,6 @@
+city: Minneapolis
+state: MN
+adoption_year: 2003
+source_url: https://www.minneapolismn.gov/311/
+source_type: official
+evidence_note: Minneapolis launched its 311 system in 2003.

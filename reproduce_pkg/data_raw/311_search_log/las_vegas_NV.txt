@@ -1,0 +1,6 @@
+city: Las Vegas
+state: NV
+adoption_year: 2000
+source_url: https://lasvegassun.com/
+source_type: news
+evidence_note: Las Vegas Sun reported the city's 311 system went active on October 30, 2000.

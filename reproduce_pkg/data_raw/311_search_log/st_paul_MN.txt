@@ -1,0 +1,6 @@
+city: St. Paul
+state: MN
+adoption_year: unknown
+source_url: https://www.stpaul.gov/311
+source_type: official
+evidence_note: St. Paul operates a 311 service for non-emergency requests, but the launch year of the 311 number could not be confirmed from available sources.

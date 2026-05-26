@@ -1,0 +1,6 @@
+city: Sunnyvale
+state: CA
+adoption_year: unknown
+source_url: https://seeclickfix.com/sunnyvale
+source_type: secondary
+evidence_note: Sunnyvale uses SeeClickFix for citizen service requests with activity dating to at least 2017, but no specific launch year was found.

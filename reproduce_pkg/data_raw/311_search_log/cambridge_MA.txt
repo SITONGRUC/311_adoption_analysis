@@ -1,0 +1,6 @@
+city: Cambridge
+state: MA
+adoption_year: unknown
+source_url: https://seeclickfix.com/cambridge
+source_type: secondary
+evidence_note: Cambridge uses SeeClickFix for 311 citizen service requests; no specific launch year was found.

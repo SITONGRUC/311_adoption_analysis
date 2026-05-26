@@ -1,0 +1,6 @@
+city: Glendale
+state: CA
+adoption_year: no_311
+source_url: https://www.glendaleca.gov/government/departments/community-services-and-parks
+source_type: official
+evidence_note: Glendale CA uses a direct "City Service Line" (818-550-4400) for non-emergency requests; no 311 number or system was found.

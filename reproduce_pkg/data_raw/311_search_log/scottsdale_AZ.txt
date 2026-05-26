@@ -1,0 +1,6 @@
+city: Scottsdale
+state: AZ
+adoption_year: no_311
+source_url: https://www.scottsdaleaz.gov/ez
+source_type: official
+evidence_note: Scottsdale does not operate a formal 311 number; it uses a constituent services line (480-312-3111) and the ScottsdaleEZ online portal.

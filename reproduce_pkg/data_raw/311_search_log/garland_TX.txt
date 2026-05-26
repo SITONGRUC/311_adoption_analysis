@@ -1,0 +1,6 @@
+city: Garland
+state: TX
+adoption_year: unknown
+source_url: https://www.garlandtx.gov/311
+source_type: official
+evidence_note: Garland operates a 311 service line for non-emergency city services, but the launch year could not be confirmed from available sources.

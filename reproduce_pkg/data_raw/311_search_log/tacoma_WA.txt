@@ -1,0 +1,6 @@
+city: Tacoma
+state: WA
+adoption_year: 2013
+source_url: https://thesubtimes.com/2023/10/20/city-council-recognizes-10-year-anniversary-of-tacoma-first-311-customer-support-center/
+source_type: news
+evidence_note: TacomaFIRST 311 launched in fall 2013; the City Council recognized the 10th anniversary in October 2023.

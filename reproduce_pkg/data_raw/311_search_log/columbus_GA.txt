@@ -1,0 +1,6 @@
+city: Columbus
+state: GA
+adoption_year: 2008
+source_url: https://icma.org/documents/city-columbus-ga-311-report
+source_type: secondary
+evidence_note: An ICMA report on the Columbus, GA 311 Citizen Service Center is dated December 31, 2008 documenting active service with detailed statistics; exact launch year not stated but service was running no later than 2008.

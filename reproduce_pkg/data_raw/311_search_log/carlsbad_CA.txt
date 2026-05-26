@@ -1,0 +1,6 @@
+city: Carlsbad
+state: CA
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: Carlsbad CA uses a non-emergency police line (442-339-2197) and has no formal 311 system.

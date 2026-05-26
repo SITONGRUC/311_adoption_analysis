@@ -1,0 +1,6 @@
+city: Greensboro
+state: NC
+adoption_year: unknown
+source_url: https://www.greensboro-nc.gov/departments/city-manager-s-office/contact-center
+source_type: official
+evidence_note: Greensboro has a Contact Center (336-373-CITY) for non-emergency requests but whether a formal 311 number is in use and its launch year could not be confirmed.

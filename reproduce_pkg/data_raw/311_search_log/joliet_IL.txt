@@ -1,0 +1,6 @@
+city: Joliet
+state: IL
+adoption_year: 2021
+source_url: https://www.joliet.gov/Home/Components/News/News/3452/
+source_type: official
+evidence_note: City of Joliet launched CitizenVUE, a citizen engagement service request app, on April 7, 2021, replacing prior service request methods.

@@ -1,0 +1,6 @@
+city: Abilene
+state: TX
+adoption_year: unknown
+source_url: https://www.abilenetx.gov/services
+source_type: official
+evidence_note: Abilene uses SeeClickFix and direct department lines for service requests; no formal 311 system or launch year was found.

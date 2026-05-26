@@ -1,0 +1,6 @@
+city: Murrieta
+state: CA
+adoption_year: unknown
+source_url: https://seeclickfix.com/murrieta
+source_type: secondary
+evidence_note: Murrieta uses SeeClickFix "FixIt" portal for citizen service requests; no specific launch year was found.

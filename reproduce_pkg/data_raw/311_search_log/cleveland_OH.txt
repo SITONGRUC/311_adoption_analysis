@@ -1,0 +1,6 @@
+city: Cleveland
+state: OH
+adoption_year: 2009
+source_url: https://www.clevelandohio.gov/CityofCleveland/Home/Government/CityAgencies/PublicWorksandRecreation/311
+source_type: official
+evidence_note: Cleveland launched its 311 system in 2009.

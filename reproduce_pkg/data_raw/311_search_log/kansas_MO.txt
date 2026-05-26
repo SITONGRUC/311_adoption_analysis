@@ -1,0 +1,6 @@
+city: Kansas City
+state: MO
+adoption_year: 2007
+source_url: https://www.kcmo.gov/city-hall/departments/311-call-center
+source_type: official
+evidence_note: Kansas City MO launched its 311 system in 2007.

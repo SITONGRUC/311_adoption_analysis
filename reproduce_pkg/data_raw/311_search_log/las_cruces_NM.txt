@@ -1,0 +1,6 @@
+city: Las Cruces
+state: NM
+adoption_year: 2018
+source_url: https://www.tylertech.com/resources/case-studies/las-cruces-nm-brings-mobile-311-to-residents
+source_type: secondary
+evidence_note: Las Cruces NM brought mobile 311 to residents approximately in mid-2018, per a Tyler Technologies case study.

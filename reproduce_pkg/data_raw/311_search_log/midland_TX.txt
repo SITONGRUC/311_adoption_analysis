@@ -1,0 +1,6 @@
+city: Midland
+state: TX
+adoption_year: 2024
+source_url: https://www.facebook.com/CityofMidlandTX/posts/since-launching-seeclickfix-in-mid-2024-the-city-of-midland-has-responded-to-mor/1318506586973431/
+source_type: news
+evidence_note: Midland launched SeeClickFix for citizen requests in mid-2024; the City of Midland Facebook page confirmed 13,000+ requests responded to since launch.

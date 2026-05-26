@@ -1,0 +1,6 @@
+city: Salt Lake City
+state: UT
+adoption_year: unknown
+source_url: https://www.route-fifty.com/management/2011/08/311-app-streamlines-service-requests-in-salt-lake-city/282409/
+source_type: secondary
+evidence_note: Salt Lake City had a 311 system referenced in Route Fifty as of 2011; the exact launch year could not be confirmed from available sources.

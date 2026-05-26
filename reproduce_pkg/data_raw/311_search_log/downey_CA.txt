@@ -1,0 +1,6 @@
+city: Downey
+state: CA
+adoption_year: unknown
+source_url: https://www.downeyca.org/our-city/departments/community-development/citizen-request
+source_type: official
+evidence_note: Downey CA has "Downey Connect" (GoGov) citizen request app; no specific launch year was found.

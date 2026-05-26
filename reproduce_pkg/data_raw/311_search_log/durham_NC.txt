@@ -1,0 +1,6 @@
+city: Durham
+state: NC
+adoption_year: unknown
+source_url: https://icma.org/documents/durham-one-call-center
+source_type: secondary
+evidence_note: Durham One Call 311 center is documented in an ICMA case study (~2009), but the exact launch year could not be confirmed from available sources.

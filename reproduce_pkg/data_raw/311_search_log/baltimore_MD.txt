@@ -1,0 +1,6 @@
+city: Baltimore
+state: MD
+adoption_year: 1996
+source_url: https://baltimore.gov/311/
+source_type: official
+evidence_note: Baltimore launched the first 311 system in the US in October 1996.

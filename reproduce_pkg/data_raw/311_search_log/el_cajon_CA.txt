@@ -1,0 +1,6 @@
+city: El Cajon
+state: CA
+adoption_year: 2020
+source_url: https://www.businesswire.com/news/home/20200707005041/en/El-Cajon-California-Goes-Live-with-Tyler-Technologies-Citizen-Self-Service-and-Engagement-Solutions
+source_type: news
+evidence_note: El Cajon went live with Tyler Technologies' citizen self-service and 311-integrated MyCivic platform in July 2020.

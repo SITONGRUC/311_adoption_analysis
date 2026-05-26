@@ -1,0 +1,6 @@
+city: College Station
+state: TX
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: College Station uses SeeClickFix and a direct non-emergency line (979-764-3600) for service requests; no formal 311 system was found.

@@ -1,0 +1,6 @@
+city: Allen
+state: TX
+adoption_year: unknown
+source_url: https://www.cityofallen.org
+source_type: official
+evidence_note: No dedicated 311 system or verifiable launch year was found for Allen TX from available sources.

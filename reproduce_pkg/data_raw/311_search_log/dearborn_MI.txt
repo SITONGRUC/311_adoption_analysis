@@ -1,0 +1,6 @@
+city: Dearborn
+state: MI
+adoption_year: unknown
+source_url: https://www.cityofdearborn.org/services
+source_type: official
+evidence_note: Dearborn MI routes non-emergency service calls through 311; the specific year the 311 number was activated could not be confirmed.

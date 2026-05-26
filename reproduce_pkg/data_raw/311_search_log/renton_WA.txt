@@ -1,0 +1,6 @@
+city: Renton
+state: WA
+adoption_year: no_311
+source_url: https://www.rentonwa.gov/City-Services
+source_type: official
+evidence_note: No 311 system was found for Renton WA; city uses departmental contacts and an online reporting portal.

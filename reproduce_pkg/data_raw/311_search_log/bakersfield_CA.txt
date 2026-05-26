@@ -1,0 +1,6 @@
+city: Bakersfield
+state: CA
+adoption_year: no_311
+source_url: https://www.bakersfieldcity.us/
+source_type: official
+evidence_note: Bakersfield uses a direct non-emergency phone line (661-327-7111) and an online portal for service requests but does not operate a 311 system.

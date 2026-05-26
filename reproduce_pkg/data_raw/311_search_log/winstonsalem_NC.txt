@@ -1,0 +1,6 @@
+city: Winston-Salem
+state: NC
+adoption_year: 2007
+source_url: https://wstoday.6amcity.com/using-citylink-311
+source_type: news
+evidence_note: Winston-Salem's CityLink 311 citizen service center began operations in 2007.

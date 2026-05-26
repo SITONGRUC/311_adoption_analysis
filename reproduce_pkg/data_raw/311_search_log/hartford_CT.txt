@@ -1,0 +1,6 @@
+city: Hartford
+state: CT
+adoption_year: unknown
+source_url: https://www.hartfordct.gov/Government/Departments/Hartford-311
+source_type: official
+evidence_note: Hartford's official 311 page confirms an active non-emergency call center; open data records show service requests back to at least 2018, but no source specifies the original launch year.

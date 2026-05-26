@@ -1,0 +1,6 @@
+city: Port St. Lucie
+state: FL
+adoption_year: no_311
+source_url: https://www.cityofpsl.com/1psl
+source_type: official
+evidence_note: Port St. Lucie uses the "1PSL" citizen service system for non-emergency requests and does not operate a 311 number.

@@ -1,0 +1,24 @@
+metric,value,description
+n_in_matrix,137.0,Cities in binary confusion matrix
+TP,42.0,Both sources: adopted
+TN,39.0,Both sources: not adopted
+FP,56.0,Search found year; O'Byrne says not adopted
+FN,0.0,Search found no_311; O'Byrne says adopted
+agreement_rate,0.5912,(TP+TN)/total
+conflict_rate,0.4088,(FP+FN)/total
+fn_rate,0.0,FN/(TP+FN): search missed O'Byrne-confirmed adoptions
+fp_rate,0.5895,FP/(TN+FP): search found year O'Byrne says did not exist
+n_year_found,121.0,Cities with adoption year
+n_no_311,55.0,Cities confirmed no 311
+n_unknown,138.0,Cities with 311 or unknown
+pct_official_source,0.3636,Fraction of year-found cities backed by official source
+TP_corrected,40.0,Corrected TP (year<=2012 or no_311 only)
+TN_corrected,39.0,Corrected TN
+FP_corrected,13.0,"Corrected FP (year<=2012, OByrne not adopted)"
+FN_corrected,0.0,Corrected FN
+agreement_rate_corrected,0.8587,(TP_c+TN_c)/total_c
+conflict_rate_corrected,0.1413,(FP_c+FN_c)/total_c
+fn_rate_corrected,0.0,FN_c/(TP_c+FN_c)
+fp_rate_corrected,0.25,FP_c/(TN_c+FP_c)
+fp_post2012,43.0,FPs that are post-2012 adopters (not real conflicts)
+fp_true,13.0,True FPs: year<=2012 but OByrne says not adopted

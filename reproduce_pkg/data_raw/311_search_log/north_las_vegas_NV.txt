@@ -1,0 +1,6 @@
+city: North Las Vegas
+state: NV
+adoption_year: no_311
+source_url: https://www.cityofnorthlasvegas.com/contact
+source_type: official
+evidence_note: North Las Vegas uses its own non-emergency phone number (702-633-9111) and does not route through 311.

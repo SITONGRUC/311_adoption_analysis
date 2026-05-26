@@ -1,0 +1,6 @@
+city: Huntsville
+state: AL
+adoption_year: 2025
+source_url: https://www.itemonline.com/news/311-service-from-city-completes-launch/article_7c11e480-eeeb-11ef-a133-4f0187c0df09.html
+source_type: news
+evidence_note: Huntsville's 311 service completed its launch in February 2025.

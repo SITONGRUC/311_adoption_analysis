@@ -1,0 +1,6 @@
+city: Palmdale
+state: CA
+adoption_year: no_311
+source_url: https://www.cityofpalmdale.org/contact
+source_type: official
+evidence_note: No 311 system was found for Palmdale; city uses direct department phone numbers for service requests.

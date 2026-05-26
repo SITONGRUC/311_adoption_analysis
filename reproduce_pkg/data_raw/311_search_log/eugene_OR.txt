@@ -1,0 +1,6 @@
+city: Eugene
+state: OR
+adoption_year: no_311
+source_url: https://www.eugene-or.gov/contact
+source_type: official
+evidence_note: Eugene uses a non-emergency phone number (541-682-5111) for service requests and does not operate a 311 system.

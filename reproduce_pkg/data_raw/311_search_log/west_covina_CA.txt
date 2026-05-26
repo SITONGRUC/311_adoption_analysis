@@ -1,0 +1,6 @@
+city: West Covina
+state: CA
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No 311 system was found for West Covina CA; city uses departmental contact numbers.

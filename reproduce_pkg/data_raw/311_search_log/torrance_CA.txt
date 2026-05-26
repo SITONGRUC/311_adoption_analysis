@@ -1,0 +1,6 @@
+city: Torrance
+state: CA
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No dedicated 311 system was found for Torrance CA; city lists departmental contacts without a unified 311 service.

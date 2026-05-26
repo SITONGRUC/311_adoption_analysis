@@ -1,0 +1,6 @@
+city: Gresham
+state: OR
+adoption_year: unknown
+source_url: https://greshamoregon.gov/my-gresham/
+source_type: official
+evidence_note: Gresham OR has the "My Gresham" service request app for citizens; no specific launch year was found.

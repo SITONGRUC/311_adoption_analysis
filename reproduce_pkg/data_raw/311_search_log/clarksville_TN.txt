@@ -1,0 +1,6 @@
+city: Clarksville
+state: TN
+adoption_year: 2017
+source_url: https://www.cityofclarksville.com/311/
+source_type: official
+evidence_note: Clarksville TN launched its 311 system in 2017.

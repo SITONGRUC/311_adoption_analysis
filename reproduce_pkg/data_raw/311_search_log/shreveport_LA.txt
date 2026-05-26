@@ -1,0 +1,6 @@
+city: Shreveport
+state: LA
+adoption_year: unknown
+source_url: https://www.ksla.com/2024/10/15/shreveport-launch-new-resource-app-port-city-311/
+source_type: news
+evidence_note: Shreveport has a 311 service; a "Port City 311" app launched in October 2024, but the original 311 launch year could not be confirmed.

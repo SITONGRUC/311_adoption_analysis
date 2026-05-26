@@ -1,0 +1,6 @@
+city: Rio Rancho
+state: NM
+adoption_year: no_311
+source_url: https://rrnm.gov/2703/Report-Rio-Rancho
+source_type: official
+evidence_note: Rio Rancho uses the "Report Rio Rancho" CitySourced app for service requests; no traditional 311 phone system was found.

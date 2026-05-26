@@ -1,0 +1,6 @@
+city: Colorado Springs
+state: CO
+adoption_year: no_311
+source_url: https://coloradosprings.gov/contact-us
+source_type: official
+evidence_note: Colorado Springs uses a direct non-emergency line (719-444-7000) and does not operate a 311 system.

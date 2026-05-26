@@ -1,0 +1,6 @@
+city: Norwalk
+state: CA
+adoption_year: no_311
+source_url: https://www.norwalkca.gov/citizen_request_center/index.php
+source_type: official
+evidence_note: Norwalk CA has a Citizen Request Center web form but no dedicated 311 phone system was found.

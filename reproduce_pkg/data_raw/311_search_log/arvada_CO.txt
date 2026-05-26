@@ -1,0 +1,6 @@
+city: Arvada
+state: CO
+adoption_year: unknown
+source_url: https://arvada.org/residents/ask-arvada
+source_type: official
+evidence_note: Arvada uses "Ask Arvada" 311 CRM (Comcate platform) for service requests; no specific launch year was found.

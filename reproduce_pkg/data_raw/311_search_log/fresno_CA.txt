@@ -1,0 +1,6 @@
+city: Fresno
+state: CA
+adoption_year: 2019
+source_url: https://www.fresno.gov/311
+source_type: news
+evidence_note: Fresno formally launched its 311 system in 2019; an earlier One Call Center had operated since 2006 but was not branded 311.

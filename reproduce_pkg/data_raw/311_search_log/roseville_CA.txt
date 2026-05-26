@@ -1,0 +1,6 @@
+city: Roseville
+state: CA
+adoption_year: unknown
+source_url: https://www.roseville.ca.us/residents/my_r_s_v_l
+source_type: official
+evidence_note: Roseville operates a myRSVL service request portal for residents; no specific launch year was found.

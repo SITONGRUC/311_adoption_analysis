@@ -1,0 +1,6 @@
+city: Brownsville
+state: TX
+adoption_year: no_311
+source_url: https://www.cob.us/index.aspx
+source_type: official
+evidence_note: Brownsville operates a 546-HELP non-emergency line instead of 311 for non-emergency service requests.

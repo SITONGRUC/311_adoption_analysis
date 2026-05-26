@@ -1,0 +1,6 @@
+city: Lowell
+state: MA
+adoption_year: 2025
+source_url: https://www.lowellma.gov/CivicAlerts.aspx?AID=912
+source_type: official
+evidence_note: Lowell 311 (Tyler ESR system) launched publicly on March 10-11, 2025, per a city CivicAlerts announcement.

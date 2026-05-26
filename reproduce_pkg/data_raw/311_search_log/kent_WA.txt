@@ -1,0 +1,6 @@
+city: Kent
+state: WA
+adoption_year: unknown
+source_url: https://www.kentwa.gov/pay-and-apply/kentworks
+source_type: official
+evidence_note: Kent operates the "KentWorks" app for non-emergency citizen service requests; no specific launch year was found.

@@ -1,0 +1,6 @@
+city: Bellevue
+state: WA
+adoption_year: 2013
+source_url: https://data.bellevuewa.gov/datasets/mybellevue-311-dashboard
+source_type: official
+evidence_note: Bellevue launched the MyBellevue app and citizen request portal in 2013, handling requests for streetlights, potholes, and other city issues.

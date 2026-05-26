@@ -1,0 +1,6 @@
+city: St. Petersburg
+state: FL
+adoption_year: 2014
+source_url: https://www.civicplus.com/case-studies/crm/st-pete-plans-for-active-hurricane-season-taps-residents-for-help/
+source_type: secondary
+evidence_note: St. Petersburg launched a SeeClickFix 311 CRM tool in 2014, per a CivicPlus case study.

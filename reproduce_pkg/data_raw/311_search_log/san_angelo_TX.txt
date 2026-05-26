@@ -1,0 +1,6 @@
+city: San Angelo
+state: TX
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No 311 system or equivalent citizen service app was found for San Angelo TX; city uses departmental phone numbers.

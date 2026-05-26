@@ -1,0 +1,6 @@
+city: Clovis
+state: CA
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No formal 311 system was found for Clovis CA; city uses GOGov and direct department lines for service requests.

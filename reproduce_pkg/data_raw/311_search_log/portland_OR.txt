@@ -1,0 +1,6 @@
+city: Portland
+state: OR
+adoption_year: 2021
+source_url: https://www.portland.gov/311
+source_type: official
+evidence_note: PDX 311 launched in fiscal year 2020-21, consolidating city service request channels into a single 311 system.

@@ -1,0 +1,6 @@
+city: Rochester
+state: MN
+adoption_year: 2024
+source_url: https://www.rochestermn.gov/Home/Components/News/News/9565/1121
+source_type: official
+evidence_note: Rochester MN launched its 311 service in October 2024, per an official city announcement.

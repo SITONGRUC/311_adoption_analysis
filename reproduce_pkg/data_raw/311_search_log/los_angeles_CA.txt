@@ -1,0 +1,6 @@
+city: Los Angeles
+state: CA
+adoption_year: 2002
+source_url: https://controller.lacity.gov/audits/311
+source_type: official
+evidence_note: LA City Controller audit states the 311 call center was established in 2002; MyLA311 app added in 2013, system overhauled in 2016.

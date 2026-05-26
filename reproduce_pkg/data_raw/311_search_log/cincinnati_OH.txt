@@ -1,0 +1,6 @@
+city: Cincinnati
+state: OH
+adoption_year: 2022
+source_url: https://www.wvxu.org/local-news/2022-09-12/cincinnati-launches-311-non-emergency-line
+source_type: news
+evidence_note: WVXU reported September 12, 2022 that Cincinnati launched 311Cincy non-emergency service; Fix It Cincy app was rebranded 311 Cincy at the same time (note: O'Byrne 2015 flags Cincinnati as adopted by 2012, possibly reflecting an earlier informal service; Socrata shows 2016).

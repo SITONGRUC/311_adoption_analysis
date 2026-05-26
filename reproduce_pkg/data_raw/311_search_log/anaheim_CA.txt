@@ -1,0 +1,6 @@
+city: Anaheim
+state: CA
+adoption_year: 2007
+source_url: https://www.govtech.com/dc/articles/Anaheim-Launches-311-Customer-Service-Hotline.html
+source_type: news
+evidence_note: GovTech reported that Anaheim began live testing of its 311 hotline on June 4, 2007, as the phone component of the "Anaheim Anytime" initiative introduced by Mayor Curt Pringle at his 2006 State of the City Address.

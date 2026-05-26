@@ -1,0 +1,6 @@
+city: Boise
+state: ID
+adoption_year: unknown
+source_url: https://www.cityofboise.org/departments/public-works/report-an-issue/
+source_type: official
+evidence_note: Boise uses SeeClickFix for citizen service requests but no formal 311 launch year was found in available sources.

@@ -1,0 +1,6 @@
+city: Kansas City
+state: KS
+adoption_year: unknown
+source_url: https://www.wycokck.org/Departments/311-Call-Center
+source_type: official
+evidence_note: The Unified Government of Wyandotte County and Kansas City KS operates a 311 Call Center; expanded to 24/7 service in 2021 but original launch year not verifiable.

@@ -1,0 +1,6 @@
+city: Olathe
+state: KS
+adoption_year: unknown
+source_url: https://www.olatheks.gov/services/olatheconnect
+source_type: official
+evidence_note: Olathe operates OlatheConnect as a 24/7 virtual city hall service request system; active as of 2019 but no launch year was found.

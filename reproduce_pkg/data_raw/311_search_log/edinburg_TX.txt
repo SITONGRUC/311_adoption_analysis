@@ -1,0 +1,6 @@
+city: Edinburg
+state: TX
+adoption_year: 2021
+source_url: https://myrgv.com/featured/2021/08/26/edinburg-launches-311-app/
+source_type: news
+evidence_note: Edinburg TX launched its 311 app and dedicated 311 call center on August 26, 2021, per MyRGV.com reporting.

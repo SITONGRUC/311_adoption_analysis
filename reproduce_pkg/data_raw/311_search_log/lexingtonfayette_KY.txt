@@ -1,0 +1,6 @@
+city: Lexington-Fayette
+state: KY
+adoption_year: unknown
+source_url: https://www.lexingtonky.gov/lexcall-311
+source_type: official
+evidence_note: Lexington-Fayette operates LexCall 311 for non-emergency service requests, but the launch year could not be confirmed from available sources.

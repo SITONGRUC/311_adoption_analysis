@@ -1,0 +1,6 @@
+city: Glendale
+state: AZ
+adoption_year: 2019
+source_url: https://www.glendalestar.com/news/article_d0fefa90-51a3-11ea-a7e1-6f869782432e.html
+source_type: news
+evidence_note: GlendaleOne, the city's 311-style service request app, launched in December 2019.

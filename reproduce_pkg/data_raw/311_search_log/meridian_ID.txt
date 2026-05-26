@@ -1,0 +1,6 @@
+city: Meridian
+state: ID
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No 311 system was found for Meridian ID; city uses direct department lines (208-888-5242) for service requests.

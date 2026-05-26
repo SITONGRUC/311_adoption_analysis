@@ -1,0 +1,6 @@
+city: Albuquerque
+state: NM
+adoption_year: 2005
+source_url: https://www.cabq.gov/311
+source_type: official
+evidence_note: Albuquerque launched its 311 system in 2005.

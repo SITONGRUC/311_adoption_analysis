@@ -1,0 +1,6 @@
+city: Santa Clara
+state: CA
+adoption_year: unknown
+source_url: https://www.santaclaraca.gov/residents/services/mysantaclara-app
+source_type: official
+evidence_note: Santa Clara has the "MySantaClara" app for citizen service requests; no 311 phone number or launch year was found.

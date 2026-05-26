@@ -1,0 +1,6 @@
+city: Spokane
+state: WA
+adoption_year: 2017
+source_url: https://my.spokanecity.org/news/stories/2017/02/10/city-of-spokane-launches-my-spokane-311/
+source_type: official
+evidence_note: Spokane launched "My Spokane 311" on February 10, 2017, per a city press release.

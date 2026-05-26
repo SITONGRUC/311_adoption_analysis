@@ -1,0 +1,6 @@
+city: Dallas
+state: TX
+adoption_year: 2002
+source_url: https://dallascityhall.com/departments/311/Pages/default.aspx
+source_type: official
+evidence_note: Dallas 311 launched in 2002.

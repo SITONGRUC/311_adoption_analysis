@@ -1,0 +1,6 @@
+city: Raleigh
+state: NC
+adoption_year: 2011
+source_url: https://raleighnc.gov/raleigh-311
+source_type: news
+evidence_note: Raleigh launched SeeClickFix-based 311 in 2011; the service was later replaced by the Ask Raleigh platform in 2025.

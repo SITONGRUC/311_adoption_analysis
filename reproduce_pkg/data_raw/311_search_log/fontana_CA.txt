@@ -1,0 +1,6 @@
+city: Fontana
+state: CA
+adoption_year: 2022
+source_url: https://www.fontanaheraldnews.com/news/city-unveils-its-new-fontana-311-customer-service-website/article_68df5b72-afd2-11ed-bb39-fb97262bc107.html
+source_type: news
+evidence_note: Fontana launched its Fontana 311 app in December 2022; the city's 311 website was unveiled in February 2023.

@@ -1,0 +1,6 @@
+city: Little Rock
+state: AR
+adoption_year: 2004
+source_url: https://www.kark.com/news/local-news/311-city-services-celebrates-two-decades-of-service-to-little-rock-residents/
+source_type: news
+evidence_note: KARK reported in March 2024 that Little Rock 311 City Services was "celebrating two decades of service," placing the launch around 2004; city sources also confirm the 311 system was part of the 2004 Bond Project (note: Socrata lower bound of 2018 reflects dataset publication date, not launch).

@@ -1,0 +1,6 @@
+city: Corpus Christi
+state: TX
+adoption_year: 2022
+source_url: https://www.cctexas.com/311
+source_type: news
+evidence_note: Corpus Christi launched its 311 Call Center in June 2022.

@@ -1,0 +1,6 @@
+city: Menifee
+state: CA
+adoption_year: unknown
+source_url: https://www.cityofmenifee.us/121/Report-an-Issue
+source_type: official
+evidence_note: Menifee CA uses a city-built app for service requests; no dedicated 311 number or verifiable launch year was found.

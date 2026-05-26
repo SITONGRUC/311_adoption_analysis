@@ -1,0 +1,6 @@
+city: West Jordan
+state: UT
+adoption_year: 2018
+source_url: https://www.deseret.com/2018/8/27/20652053/w-jordan-launches-new-service-request-web-page/
+source_type: news
+evidence_note: West Jordan launched a new SeeClickFix-based service request web page in August 2018, per Deseret News.

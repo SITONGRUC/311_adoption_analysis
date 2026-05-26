@@ -1,0 +1,6 @@
+city: Hollywood
+state: FL
+adoption_year: unknown
+source_url: https://www.hollywoodfl.org/616/Services
+source_type: official
+evidence_note: City of Hollywood FL provides customer services online but no dedicated 311 system or specific launch year was found.

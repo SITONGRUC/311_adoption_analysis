@@ -1,0 +1,6 @@
+city: Pomona
+state: CA
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: Pomona CA uses a traditional non-emergency dispatch number (909-622-1241) and departmental contacts; no dedicated 311 system was identified.

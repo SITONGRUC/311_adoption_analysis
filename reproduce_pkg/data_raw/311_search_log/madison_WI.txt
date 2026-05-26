@@ -1,0 +1,6 @@
+city: Madison
+state: WI
+adoption_year: no_311
+source_url: https://www.cityofmadison.com/mayor/initiatives/311
+source_type: official
+evidence_note: Madison was still exploring and planning a 311 system as of 2024; no formal 311 has been launched.

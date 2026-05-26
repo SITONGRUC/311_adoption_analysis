@@ -1,0 +1,6 @@
+city: Rancho Cucamonga
+state: CA
+adoption_year: no_311
+source_url: https://www.cityofrc.us/rc2go
+source_type: official
+evidence_note: Rancho Cucamonga uses the RC2GO app for issue reporting; no 311 phone number or system was found.

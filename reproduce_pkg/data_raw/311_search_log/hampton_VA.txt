@@ -1,0 +1,6 @@
+city: Hampton
+state: VA
+adoption_year: unknown
+source_url: https://www.cga.ct.gov/2002/olrdata/et/rpt/2002-R-0205.htm
+source_type: secondary
+evidence_note: A February 2002 Connecticut General Assembly report lists Hampton VA among jurisdictions already operating a 311 system, noting Hampton was the first locality in Virginia to launch a centralized 311 call center; exact launch year not found.

@@ -1,0 +1,6 @@
+city: West Valley City
+state: UT
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No dedicated 311 system was found for West Valley City UT; city uses departmental phone contacts and a general contact form.

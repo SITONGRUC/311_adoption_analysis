@@ -1,0 +1,6 @@
+city: Vacaville
+state: CA
+adoption_year: unknown
+source_url: https://seeclickfix.com/vacaville
+source_type: secondary
+evidence_note: Vacaville CA uses SeeClickFix for citizen reporting; no dedicated 311 number or verifiable launch year was found.

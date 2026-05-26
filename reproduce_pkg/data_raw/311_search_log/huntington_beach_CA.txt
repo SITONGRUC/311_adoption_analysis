@@ -1,0 +1,6 @@
+city: Huntington Beach
+state: CA
+adoption_year: no_311
+source_url: https://www.huntingtonbeachca.gov/government/departments/police/
+source_type: official
+evidence_note: Huntington Beach uses a direct non-emergency police number for non-emergency service requests; no 311 system was found.

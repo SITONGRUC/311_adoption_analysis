@@ -1,0 +1,6 @@
+city: Pueblo
+state: CO
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: Pueblo CO has no 311 system; its Citizen Access Portal is limited to taxes and permits, not general non-emergency service requests.

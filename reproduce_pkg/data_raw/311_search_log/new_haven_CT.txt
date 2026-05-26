@@ -1,0 +1,6 @@
+city: New Haven
+state: CT
+adoption_year: unknown
+source_url: https://www.newhavenindependent.org/2007/10/12/311_hotline_gains_approval/
+source_type: news
+evidence_note: New Haven aldermen approved a 311 hotline in October 2007; the actual launch date of the service could not be confirmed from available sources.

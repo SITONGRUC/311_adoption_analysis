@@ -1,0 +1,6 @@
+city: Clearwater
+state: FL
+adoption_year: 2014
+source_url: https://apps.apple.com/us/app/clearwater-connect/id864135143
+source_type: secondary
+evidence_note: "Clearwater Connect" app version 3.2 was released on 09/24/2014, indicating the platform launched approximately in 2014.

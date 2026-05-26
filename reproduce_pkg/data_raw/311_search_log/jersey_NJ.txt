@@ -1,0 +1,6 @@
+city: Jersey City
+state: NJ
+adoption_year: no_311
+source_url: https://www.jerseycitynj.gov/contact
+source_type: official
+evidence_note: Jersey City uses a Resident Response Center for non-emergency requests and does not appear to operate a 311 system.

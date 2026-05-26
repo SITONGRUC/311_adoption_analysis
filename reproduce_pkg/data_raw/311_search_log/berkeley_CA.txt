@@ -1,0 +1,6 @@
+city: Berkeley
+state: CA
+adoption_year: 2009
+source_url: https://www.berkeleydailyplanet.com/issue/2009-11-25/article/34156
+source_type: news
+evidence_note: The Berkeley Daily Planet (November 25, 2009) reports the City of Berkeley officially launched its 311 call center at the November 17, 2009 City Council meeting after a pilot period in which 65,000 calls were received.

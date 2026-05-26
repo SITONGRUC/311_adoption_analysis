@@ -1,0 +1,6 @@
+city: Springfield
+state: MA
+adoption_year: 2008
+source_url: https://www.springfield-ma.gov/cos/fileadmin/flyers/About_311.pdf
+source_type: official
+evidence_note: City of Springfield official document (March 2009 CitiStat report) states the 311 Center was created in September 2008; Springfield was the first community in western Massachusetts to use the 3-1-1 number.

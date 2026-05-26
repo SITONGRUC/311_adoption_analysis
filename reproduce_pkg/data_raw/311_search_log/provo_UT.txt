@@ -1,0 +1,6 @@
+city: Provo
+state: UT
+adoption_year: 2012
+source_url: https://www.provo.gov/179/311-Customer-Service
+source_type: official
+evidence_note: Provo recognized the need for a 311 customer service department in 2012 and formalized the service that year, per the city's official 311 page.

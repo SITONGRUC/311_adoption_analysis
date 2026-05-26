@@ -1,0 +1,6 @@
+city: Thousand Oaks
+state: CA
+adoption_year: unknown
+source_url: https://www.toaks.org/residents/report-a-problem
+source_type: official
+evidence_note: Thousand Oaks uses MaintStar Mobile Citizen and SeeClickFix for service requests; no specific launch year or formal 311 number was found.

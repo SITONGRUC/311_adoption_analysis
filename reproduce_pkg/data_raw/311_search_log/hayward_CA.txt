@@ -1,0 +1,6 @@
+city: Hayward
+state: CA
+adoption_year: unknown
+source_url: https://www.hayward-ca.gov/community-services
+source_type: official
+evidence_note: Hayward has an "Access Hayward" citizen service system; no specific launch year was found.

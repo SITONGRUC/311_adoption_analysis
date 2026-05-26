@@ -1,0 +1,6 @@
+city: New Orleans
+state: LA
+adoption_year: 2012
+source_url: https://www.opcdla.gov/services/nola-311/
+source_type: official
+evidence_note: Orleans Parish Communication District states NOLA-311 has been operational since March 2012; open data records also begin in 2012.

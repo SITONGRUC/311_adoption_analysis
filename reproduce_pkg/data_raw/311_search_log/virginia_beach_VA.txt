@@ -1,0 +1,6 @@
+city: Virginia Beach
+state: VA
+adoption_year: 2006
+source_url: https://www.vbgov.com/government/departments/communications-information-technology/vbgov.com/Pages/311.aspx
+source_type: official
+evidence_note: Virginia Beach launched its 311 system in 2006.

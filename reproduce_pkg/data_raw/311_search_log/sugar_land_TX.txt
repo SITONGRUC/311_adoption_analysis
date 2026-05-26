@@ -1,0 +1,6 @@
+city: Sugar Land
+state: TX
+adoption_year: 2018
+source_url: https://patch.com/texas/sugarland/sugar-land-launches-311-non-emergency-system
+source_type: news
+evidence_note: Sugar Land launched its 311 Contact Center in March 2018, per Patch.com reporting.

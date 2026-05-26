@@ -1,0 +1,6 @@
+city: Norfolk
+state: VA
+adoption_year: unknown
+source_url: https://www.norfolk.gov/311
+source_type: official
+evidence_note: Norfolk's "Norfolk Cares Center" is a 311-equivalent service; open data records show activity from November 2014 but the launch year could not be confirmed.

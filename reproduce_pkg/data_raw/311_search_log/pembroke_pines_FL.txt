@@ -1,0 +1,6 @@
+city: Pembroke Pines
+state: FL
+adoption_year: unknown
+source_url: https://www.ppines.com/1045/Resident-Services
+source_type: official
+evidence_note: Pembroke Pines uses SeeClickFix for citizen service requests; no dedicated 311 number or launch year was found.

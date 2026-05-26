@@ -1,0 +1,6 @@
+city: Fayetteville
+state: NC
+adoption_year: unknown
+source_url: https://www.fayettevillenc.gov/citizens/fayfixit
+source_type: official
+evidence_note: Fayetteville uses SeeClickFix (FayFixIt) for service requests; records show activity since 2015 but a formal 311 launch year could not be confirmed.

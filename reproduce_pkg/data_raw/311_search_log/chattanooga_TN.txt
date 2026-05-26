@@ -1,0 +1,6 @@
+city: Chattanooga
+state: TN
+adoption_year: 2003
+source_url: https://www.timesfreepress.com/news/2019/mar/11/chattanooga-success-311-service/
+source_type: news
+evidence_note: Chattanooga Times Free Press reports that Chattanooga launched its 311 Service Center on February 6, 2003, making it one of the first mid-size US cities to implement a "One Call to City Hall" program.

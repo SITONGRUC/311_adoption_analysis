@@ -1,0 +1,6 @@
+city: Burbank
+state: CA
+adoption_year: 2022
+source_url: https://www.burbankca.gov/newsroom/-/newsdetail/20124/burbank-launches-our-burbank-311-mobile-app
+source_type: official
+evidence_note: Burbank launched "Our Burbank 311" mobile app in January 2022, per a city newsroom announcement.

@@ -1,0 +1,6 @@
+city: Lee's Summit
+state: MO
+adoption_year: unknown
+source_url: https://seeclickfix.com/lees-summit
+source_type: secondary
+evidence_note: Lee's Summit MO uses SeeClickFix for citizen service requests; no dedicated 311 number or verifiable launch year was found.

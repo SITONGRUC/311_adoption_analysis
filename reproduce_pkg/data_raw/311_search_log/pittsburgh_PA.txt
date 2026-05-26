@@ -1,0 +1,6 @@
+city: Pittsburgh
+state: PA
+adoption_year: 2004
+source_url: https://pittsburghpa.gov/311/
+source_type: official
+evidence_note: Pittsburgh launched its 311 system in 2004.

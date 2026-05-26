@@ -1,0 +1,6 @@
+city: Coral Springs
+state: FL
+adoption_year: unknown
+source_url: https://www.coralsprings.org/residents/resident-services
+source_type: official
+evidence_note: Coral Springs has a "My Coral Springs" service request portal; no specific launch year was found.

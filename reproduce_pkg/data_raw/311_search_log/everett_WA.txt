@@ -1,0 +1,6 @@
+city: Everett
+state: WA
+adoption_year: unknown
+source_url: https://seeclickfix.com/everett
+source_type: secondary
+evidence_note: Everett WA has "Everett at Work" (SeeClickFix app); no formal 311 number and no specific launch year were found.

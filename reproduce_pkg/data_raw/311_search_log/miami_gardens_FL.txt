@@ -1,0 +1,6 @@
+city: Miami Gardens
+state: FL
+adoption_year: unknown
+source_url: https://www.miamigardens-fl.gov/185/Public-Service-Programs
+source_type: official
+evidence_note: Miami Gardens (incorporated 2003) references 311 on its official website but no launch year found; residents also access the countywide Miami-Dade 311 system, complicating attribution of when the city adopted its own service.

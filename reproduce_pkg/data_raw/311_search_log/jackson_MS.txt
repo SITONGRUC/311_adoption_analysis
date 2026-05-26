@@ -1,0 +1,6 @@
+city: Jackson
+state: MS
+adoption_year: 2011
+source_url: https://www.jacksonfreepress.com/news/2011/apr/04/city-rolls-out-311-call-system/
+source_type: news
+evidence_note: Jackson Free Press reported April 4, 2011 that Mayor Harvey Johnson Jr. launched the city's 311 system with six employees taking calls from the Eudora Welty Library after the state PSC approved use of the 3-1-1 number.

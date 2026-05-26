@@ -1,0 +1,6 @@
+city: Detroit
+state: MI
+adoption_year: 2005
+source_url: https://www.govtech.com/archive/detroit-pulls-plug-on-311-call-center.html
+source_type: news
+evidence_note: GovTech reports Detroit's "One Call to City Hall" 311 call center launched in 2005 and handled 400+ service types; closed June 30, 2012 as a cost-savings measure.

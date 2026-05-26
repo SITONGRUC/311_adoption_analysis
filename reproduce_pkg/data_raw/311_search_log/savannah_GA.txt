@@ -1,0 +1,6 @@
+city: Savannah
+state: GA
+adoption_year: 2006
+source_url: http://www.savannahtribune.com/articles/citys-311-line-extends-hours-to-better-serve-citizens/
+source_type: news
+evidence_note: The Savannah Tribune states "Launched in 2006, 311 is designed to make City services more accessible to citizens," describing 311 as a central non-emergency contact replacing numerous individual department numbers.

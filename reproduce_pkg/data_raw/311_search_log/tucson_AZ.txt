@@ -1,0 +1,6 @@
+city: Tucson
+state: AZ
+adoption_year: 2023
+source_url: https://www.tucsonaz.gov/311
+source_type: news
+evidence_note: Tucson launched its 311 non-emergency number in early 2023.

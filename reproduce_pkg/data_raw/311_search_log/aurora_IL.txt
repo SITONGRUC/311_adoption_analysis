@@ -1,0 +1,6 @@
+city: Aurora
+state: IL
+adoption_year: 2025
+source_url: https://www.shawlocal.com/kane-county-chronicle/2025/03/11/city-of-aurora-launches-myaurora-311-for-improved-customer-service/
+source_type: news
+evidence_note: Aurora IL officially launched myAurora 311 on March 11, 2025, per Shaw Local reporting.

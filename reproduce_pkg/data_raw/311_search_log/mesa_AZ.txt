@@ -1,0 +1,6 @@
+city: Mesa
+state: AZ
+adoption_year: unknown
+source_url: https://www.mesaaz.gov/Activities-Culture/Parks-Recreation-and-Community-Facilities/News/Mesa-CityLink
+source_type: official
+evidence_note: Mesa uses "Mesa CityLink" (CitySourced platform) for non-emergency requests; no source specifies launch year; Socrata data starts 2017 and CityLink app suggests mid-2010s, but exact year unconfirmed.

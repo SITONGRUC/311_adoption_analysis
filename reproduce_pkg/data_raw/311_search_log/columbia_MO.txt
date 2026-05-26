@@ -1,0 +1,6 @@
+city: Columbia
+state: MO
+adoption_year: 2020
+source_url: https://www.komu.com/news/311-non-emergency-call-line-launches-for-boone-county/article_e7b424e3-ab4f-52b4-99b6-ebb0509f37e5.html
+source_type: news
+evidence_note: Boone County (which serves Columbia MO) launched a 311 non-emergency call line in November 2020, per KOMU news.

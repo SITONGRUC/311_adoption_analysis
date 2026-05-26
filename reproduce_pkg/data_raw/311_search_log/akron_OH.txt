@@ -1,0 +1,6 @@
+ city: Akron
+state: OH
+adoption_year: 2017
+source_url: https://signalakron.org/311-app-hotline-give-akron-residents-direct-path-to-request-city-services/
+source_type: news
+evidence_note: Signal Akron reports Akron's 311 phone hotline and website launched in 2017; MyAkron311 mobile app was added in January 2024 (note: O'Byrne 2015 flags Akron as adopted by 2012, possibly reflecting a predecessor call-center service).

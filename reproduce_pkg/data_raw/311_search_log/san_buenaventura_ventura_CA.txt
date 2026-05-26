@@ -1,0 +1,6 @@
+city: San Buenaventura (Ventura)
+state: CA
+adoption_year: unknown
+source_url: https://www.cityofventura.ca.gov/2299/Ventura-Connects
+source_type: official
+evidence_note: Ventura issued a 311 CRM RFP in November 2022; "Ventura Connects" was active by 2024, but the exact launch year could not be confirmed.

@@ -1,0 +1,6 @@
+city: Grand Prairie
+state: TX
+adoption_year: 2022
+source_url: https://cityofgp.com/culture-community/news-events/news/other/city-launches-311-service-april-19
+source_type: official
+evidence_note: Grand Prairie launched its 311 service on April 19, 2022, per a city press release.

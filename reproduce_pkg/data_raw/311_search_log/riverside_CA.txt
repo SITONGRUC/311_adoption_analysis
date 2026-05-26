@@ -1,0 +1,6 @@
+city: Riverside
+state: CA
+adoption_year: 2004
+source_url: https://www.govtech.com/health/riverside-calif-introduces-311-phone-and.html
+source_type: news
+evidence_note: GovTech reported the Riverside centralized call center was created in 2004 using 826-5311 and had answered more than 250,000 questions since 2004; the short-dial 311 number was added circa 2007.

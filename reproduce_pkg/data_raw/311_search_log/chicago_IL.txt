@@ -1,0 +1,6 @@
+city: Chicago
+state: IL
+adoption_year: 1999
+source_url: https://www.chicago.gov/city/en/depts/311.html
+source_type: official
+evidence_note: Chicago launched its 311 system in 1999, making it one of the earliest U.S. cities to adopt the service.

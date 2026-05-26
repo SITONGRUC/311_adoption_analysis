@@ -1,0 +1,6 @@
+city: Odessa
+state: TX
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No 311 system was found for Odessa TX; city uses direct non-emergency phone numbers for service requests.

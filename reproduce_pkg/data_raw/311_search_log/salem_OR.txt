@@ -1,0 +1,6 @@
+city: Salem
+state: OR
+adoption_year: no_311
+source_url: https://www.cityofsalem.net/community/residents/report-a-concern
+source_type: official
+evidence_note: Salem OR uses a non-emergency phone number (503-588-6123) and online reporting; no 311 system was found.

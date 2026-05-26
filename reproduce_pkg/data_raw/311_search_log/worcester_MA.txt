@@ -1,0 +1,6 @@
+city: Worcester
+state: MA
+adoption_year: 2022
+source_url: https://patch.com/massachusetts/worcester/worcester-start-311-municipal-hotline-nuisance-calls
+source_type: news
+evidence_note: Worcester launched its 311 municipal hotline in May 2022, per Worcester Patch reporting.

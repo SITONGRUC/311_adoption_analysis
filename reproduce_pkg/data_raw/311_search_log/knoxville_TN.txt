@@ -1,0 +1,6 @@
+city: Knoxville
+state: TN
+adoption_year: 2005
+source_url: https://www.knoxvilletn.gov/government/city_departments_offices/311/about_311_and_211
+source_type: official
+evidence_note: City of Knoxville's official 311 page confirms the service launched in May 2005, operated by the Center for Service Innovation, and was the eighth 311 system to go live in the nation.

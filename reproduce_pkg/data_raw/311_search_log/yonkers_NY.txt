@@ -1,0 +1,6 @@
+city: Yonkers
+state: NY
+adoption_year: unknown
+source_url: https://www.yonkersny.gov/311
+source_type: news
+evidence_note: Yonkers received a $400K federal grant for a 311 call center in 2009; the actual launch year of its 311 service could not be confirmed.

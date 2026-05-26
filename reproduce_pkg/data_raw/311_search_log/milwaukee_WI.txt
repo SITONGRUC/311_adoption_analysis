@@ -1,0 +1,6 @@
+city: Milwaukee
+state: WI
+adoption_year: 2012
+source_url: https://city.milwaukee.gov/Milwaukee311
+source_type: news
+evidence_note: Milwaukee established its Unified Call Center / 311 system in 2012.

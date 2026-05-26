@@ -1,0 +1,6 @@
+city: Vancouver
+state: WA
+adoption_year: 2015
+source_url: https://www.columbian.com/news/2015/sep/21/no-emergency-you-can-call-311/
+source_type: news
+evidence_note: CRESA soft-launched the 311 non-emergency service for Vancouver WA in September 2015, per The Columbian.

@@ -1,0 +1,6 @@
+city: Escondido
+state: CA
+adoption_year: unknown
+source_url: https://escondido.gov/722/Online-Reporting-System
+source_type: official
+evidence_note: Escondido uses the "Report It!" (CitySourced) online reporting system; no dedicated 311 number and no launch year was found.

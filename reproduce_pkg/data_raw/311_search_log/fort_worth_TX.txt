@@ -1,0 +1,6 @@
+city: Fort Worth
+state: TX
+adoption_year: 2024
+source_url: https://www.fortworthtexas.gov/311
+source_type: news
+evidence_note: Fort Worth rolled out its 311 non-emergency service number in May 2024.

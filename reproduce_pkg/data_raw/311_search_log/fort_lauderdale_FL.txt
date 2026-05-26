@@ -1,0 +1,6 @@
+city: Fort Lauderdale
+state: FL
+adoption_year: unknown
+source_url: https://www.fortlauderdale.gov/departments/public-works/lauderserv-311
+source_type: official
+evidence_note: Fort Lauderdale uses the LauderServ/311 portal for non-emergency service requests; no original launch year was found.

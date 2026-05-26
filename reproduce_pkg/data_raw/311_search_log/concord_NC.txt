@@ -1,0 +1,6 @@
+city: Concord
+state: NC
+adoption_year: unknown
+source_url: https://concordnc.gov/services/311
+source_type: official
+evidence_note: Concord NC has a citizen request portal (concord.mobile311.com); no verifiable launch year was found.

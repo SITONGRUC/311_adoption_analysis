@@ -1,0 +1,6 @@
+city: Denton
+state: TX
+adoption_year: 2025
+source_url: https://www.cityofdenton.com/CivicAlerts.aspx?AID=1009
+source_type: official
+evidence_note: City of Denton officially launched its 311 Contact Center on April 21, 2025 as a 24/7 single point of contact for non-emergency city services.

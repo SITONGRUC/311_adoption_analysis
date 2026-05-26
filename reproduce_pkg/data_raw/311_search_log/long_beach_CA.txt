@@ -1,0 +1,6 @@
+city: Long Beach
+state: CA
+adoption_year: unknown
+source_url: https://longbeach.gov/lbbetter
+source_type: official
+evidence_note: Long Beach uses the "LB Better" (formerly "Go Long Beach") service request app but a formal 311 phone launch date could not be confirmed.

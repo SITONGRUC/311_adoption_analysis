@@ -1,0 +1,6 @@
+city: Fairfield
+state: CA
+adoption_year: unknown
+source_url: https://www.fairfield.ca.gov/services/report-an-issue
+source_type: official
+evidence_note: Fairfield uses "MyFairfieldCA" and SeeClickFix for service requests; no specific launch year was found.

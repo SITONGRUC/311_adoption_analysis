@@ -1,0 +1,6 @@
+city: Fremont
+state: CA
+adoption_year: unknown
+source_url: https://www.fremont.gov/government/departments/public-works/fremont-app
+source_type: official
+evidence_note: Fremont uses the Fremont App (SeeClickFix-based) for service requests; no dedicated 311 number and no launch year found.

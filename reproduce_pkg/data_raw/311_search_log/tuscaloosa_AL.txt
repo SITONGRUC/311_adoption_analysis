@@ -1,0 +1,6 @@
+city: Tuscaloosa
+state: AL
+adoption_year: 2007
+source_url: https://www.tuscaloosa.com/posts/2017/06/06/city-of-tuscaloosa-celebrates-311-s-10th-anniversary
+source_type: news
+evidence_note: Tuscaloosa celebrated 311's 10th anniversary in June 2017, confirming the system launched on June 6, 2007.

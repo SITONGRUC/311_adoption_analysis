@@ -1,0 +1,6 @@
+city: Mobile
+state: AL
+adoption_year: unknown
+source_url: https://www.cityofmobile.org/departments/city-of-mobile-311/
+source_type: official
+evidence_note: City of Mobile official 311 page confirms the service exists but does not state a launch year; a November 2011 GCN article references adding a mobile app to Mobile's existing 311 system, suggesting launch was at or before 2011.

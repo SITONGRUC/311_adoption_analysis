@@ -1,0 +1,6 @@
+city: Rialto
+state: CA
+adoption_year: unknown
+source_url: https://www.rialtoca.gov/390/Report-a-Concern
+source_type: official
+evidence_note: Rialto uses SeeClickFix and a "Report a Concern" system for service requests; no dedicated 311 number or verifiable launch year was found.

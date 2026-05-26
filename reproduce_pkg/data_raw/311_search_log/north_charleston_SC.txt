@@ -1,0 +1,6 @@
+city: North Charleston
+state: SC
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: South Carolina cities generally do not operate 311 systems; North Charleston uses non-emergency phone numbers and has no formal 311 deployment.

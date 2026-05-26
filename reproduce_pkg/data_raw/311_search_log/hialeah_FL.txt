@@ -1,0 +1,6 @@
+city: Hialeah
+state: FL
+adoption_year: no_311
+source_url: https://www.hialeahfl.gov/citizens
+source_type: official
+evidence_note: Hialeah uses a Citizen Request Tracker (CRT), not a 311 number; Miami-Dade County 311 is a separate service.

@@ -1,0 +1,6 @@
+city: Chandler
+state: AZ
+adoption_year: unknown
+source_url: https://www.chandleraz.gov/services
+source_type: official
+evidence_note: Chandler has non-emergency service request channels but the specific 311 launch year could not be found in available sources.

@@ -1,0 +1,6 @@
+city: High Point
+state: NC
+adoption_year: unknown
+source_url: https://seeclickfix.com/high-point
+source_type: secondary
+evidence_note: High Point NC uses SeeClickFix for citizen service requests; no specific launch year was found.

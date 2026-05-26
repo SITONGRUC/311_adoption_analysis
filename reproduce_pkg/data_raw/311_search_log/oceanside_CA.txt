@@ -1,0 +1,6 @@
+city: Oceanside
+state: CA
+adoption_year: unknown
+source_url: https://www.ci.oceanside.ca.us/gov/pw/report_a_problem.asp
+source_type: official
+evidence_note: Oceanside uses SeeClickFix for citizen reporting but directs non-emergency calls to the police non-emergency line; no formal 311 launch year was found.

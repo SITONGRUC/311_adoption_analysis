@@ -1,0 +1,6 @@
+city: Springfield
+state: IL
+adoption_year: unknown
+source_url: https://www.springfield.il.us/
+source_type: official
+evidence_note: No evidence of a dedicated 311 system was found for Springfield IL; city uses departmental contact numbers.

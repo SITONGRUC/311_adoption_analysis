@@ -1,0 +1,6 @@
+city: El Paso
+state: TX
+adoption_year: 2011
+source_url: https://www.elpasotexas.gov/311
+source_type: news
+evidence_note: EP311 launched in 2011 as El Paso's non-emergency citizen service center.

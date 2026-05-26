@@ -1,0 +1,6 @@
+city: Inglewood
+state: CA
+adoption_year: no_311
+source_url: https://www.cityofinglewood.org/375/Public-Services-Repair
+source_type: official
+evidence_note: Inglewood CA uses departmental non-emergency phone numbers for service requests; no 311 system was found.

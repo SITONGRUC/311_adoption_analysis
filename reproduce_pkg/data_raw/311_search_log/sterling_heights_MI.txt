@@ -1,0 +1,6 @@
+city: Sterling Heights
+state: MI
+adoption_year: unknown
+source_url: https://seeclickfix.com/sterling-heights
+source_type: secondary
+evidence_note: Sterling Heights uses SeeClickFix ("Sterling Connect") for service requests; no specific launch year was found.

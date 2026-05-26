@@ -1,0 +1,6 @@
+city: Rochester
+state: NY
+adoption_year: 1999
+source_url: https://www.cityofrochester.gov/311/
+source_type: official
+evidence_note: Rochester NY launched its 311 system in 1999.

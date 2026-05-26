@@ -1,0 +1,6 @@
+city: Laredo
+state: TX
+adoption_year: unknown
+source_url: https://www.cityoflaredo.com/311/
+source_type: official
+evidence_note: Laredo's 311 Call Center was operational by at least 2014 per open data records, but the exact launch year could not be confirmed.

@@ -1,0 +1,6 @@
+city: Amarillo
+state: TX
+adoption_year: unknown
+source_url: https://www.amarillo.gov/departments/public-works
+source_type: official
+evidence_note: Amarillo planned a 311 app rollout for October 2016, but no confirmed live launch date was found in available sources.

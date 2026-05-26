@@ -1,0 +1,6 @@
+city: Ann Arbor
+state: MI
+adoption_year: 2014
+source_url: https://annarborobserver.com/a2-fix-it/
+source_type: news
+evidence_note: "A2 Fix It" (SeeClickFix) went online in July 2014, per Ann Arbor Observer reporting.

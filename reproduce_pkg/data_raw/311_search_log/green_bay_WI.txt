@@ -1,0 +1,6 @@
+city: Green Bay
+state: WI
+adoption_year: unknown
+source_url: https://seeclickfix.com/green-bay
+source_type: secondary
+evidence_note: Green Bay uses SeeClickFix for citizen reporting; no dedicated 311 number or verifiable launch year was found.

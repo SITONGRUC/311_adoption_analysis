@@ -1,0 +1,6 @@
+city: Anchorage
+state: AK
+adoption_year: 2018
+source_url: https://www.adn.com/alaska-news/anchorage/2018/04/15/anchorage-launches-311-line-to-make-it-easier-to-contact-police-in-a-non-emergency/
+source_type: news
+evidence_note: Anchorage launched its 311 non-emergency police line in April 2018 under Mayor Berkowitz.

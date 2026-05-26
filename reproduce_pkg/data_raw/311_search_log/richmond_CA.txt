@@ -1,0 +1,6 @@
+city: Richmond
+state: CA
+adoption_year: unknown
+source_url: https://seeclickfix.com/richmond
+source_type: secondary
+evidence_note: Richmond CA has SeeClickFix for citizen reporting; no formal 311 branding or launch year was found.

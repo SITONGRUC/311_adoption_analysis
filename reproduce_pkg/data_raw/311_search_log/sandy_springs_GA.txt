@@ -1,0 +1,6 @@
+city: Sandy Springs
+state: GA
+adoption_year: unknown
+source_url: https://www.sandyspringsga.gov/news/sandy-springs-launches-sandy-springs-works/
+source_type: official
+evidence_note: Sandy Springs uses the "Sandy Springs Works" platform (replaced prior app June 2024) for service requests; no formal 311 number or launch year was found.

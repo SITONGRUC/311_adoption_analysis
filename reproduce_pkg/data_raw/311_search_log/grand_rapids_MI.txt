@@ -1,0 +1,6 @@
+city: Grand Rapids
+state: MI
+adoption_year: 2013
+source_url: https://rapidgrowthmedia.com/120816-grand-rapids-311/
+source_type: news
+evidence_note: GR311 went live on October 1, 2013, per Rapid Growth Media reporting.

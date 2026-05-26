@@ -1,0 +1,6 @@
+city: Costa Mesa
+state: CA
+adoption_year: unknown
+source_url: https://seeclickfix.com/costa-mesa
+source_type: secondary
+evidence_note: Costa Mesa has a Costa Mesa 311 app (SeeClickFix/CivicApps) for service requests; no specific launch year was found.

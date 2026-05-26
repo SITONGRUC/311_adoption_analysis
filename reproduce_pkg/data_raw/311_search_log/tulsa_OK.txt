@@ -1,0 +1,6 @@
+city: Tulsa
+state: OK
+adoption_year: 2016
+source_url: https://www.cityoftulsa.org/311
+source_type: news
+evidence_note: Tulsa311 went live in November 2016 as the city's centralized non-emergency service request system.

@@ -1,0 +1,6 @@
+city: New Bedford
+state: MA
+adoption_year: 2025
+source_url: https://www.newbedford-ma.gov/mayor/news/mayor-launches-nbconnected-citys-new-mobile-app-and-311-system-boost-access-to-non-emergency-services/
+source_type: official
+evidence_note: Mayor Mitchell launched New Bedford's NBConnected app and 311 phone system on February 11, 2025, per a city press release.

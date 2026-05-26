@@ -1,0 +1,6 @@
+city: Vallejo
+state: CA
+adoption_year: 2013
+source_url: https://gov.seeclickfix.com/solutions/vallejo-ca-usa/
+source_type: secondary
+evidence_note: Vallejo adopted SeeClickFix in late 2013; Code Enforcement began using it as its 311 platform then, per a SeeClickFix case study.

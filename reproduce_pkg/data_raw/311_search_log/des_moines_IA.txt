@@ -1,0 +1,6 @@
+city: Des Moines
+state: IA
+adoption_year: unknown
+source_url: https://www.dmgov.org/government/cityoffices/publicworks/pages/report.aspx
+source_type: official
+evidence_note: Des Moines uses a non-emergency dispatch line (515-283-4811) for service requests; no dedicated 311 system was found in available sources.

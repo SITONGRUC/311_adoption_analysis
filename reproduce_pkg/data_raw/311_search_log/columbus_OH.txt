@@ -1,0 +1,6 @@
+city: Columbus
+state: OH
+adoption_year: 2003
+source_url: https://www.columbus.gov/311/
+source_type: official
+evidence_note: Columbus 311 launched in 2003.

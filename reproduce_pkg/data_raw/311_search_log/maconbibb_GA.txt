@@ -1,0 +1,6 @@
+city: Macon-Bibb County
+state: GA
+adoption_year: 2012
+source_url: https://www.gatewaymacon.org/about-macon-ga/news-and-press.cms/2013/30/macon-increases-public-engagement-through-seeclickfix
+source_type: news
+evidence_note: Macon-Bibb County launched SeeClickFix in April 2012 as a 311-style citizen service request system, funded by a $5,000 Knight Fund grant.

@@ -1,0 +1,6 @@
+city: Davenport
+state: IA
+adoption_year: 2021
+source_url: https://www.kwqc.com/2021/01/12/city-of-davenport-launches-new-citizen-reporting-tool/
+source_type: news
+evidence_note: Davenport IA launched SeeClickFix as its new citizen reporting/311 tool in January 2021, per KWQC reporting.

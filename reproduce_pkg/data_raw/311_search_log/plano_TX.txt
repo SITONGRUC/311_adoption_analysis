@@ -1,0 +1,6 @@
+city: Plano
+state: TX
+adoption_year: 2011
+source_url: https://www.nbcdfw.com/news/local/fix-it-plano-app-allows-residents-to-report-problems/1984256/
+source_type: news
+evidence_note: "Fix It Plano" citizen service app launched in July 2011, per NBC DFW and GovTech reporting.

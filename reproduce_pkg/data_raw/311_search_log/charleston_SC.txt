@@ -1,0 +1,6 @@
+city: Charleston
+state: SC
+adoption_year: unknown
+source_url: https://www.charleston-sc.gov/1884/Citizen-Services-Desk
+source_type: official
+evidence_note: Charleston operates a Citizen Services Desk reachable at 843-724-7311, but no specific launch year for the service was found.

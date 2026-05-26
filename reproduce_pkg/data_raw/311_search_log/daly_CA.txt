@@ -1,0 +1,6 @@
+city: Daly City
+state: CA
+adoption_year: unknown
+source_url: https://www.dalycity.org/439/Daly-City-iHelp
+source_type: official
+evidence_note: Daly City uses the "iHelp" app (App Store listing ~2013) for service requests; no official 311 phone launch year was found.

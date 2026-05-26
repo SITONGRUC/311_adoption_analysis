@@ -1,0 +1,6 @@
+city: Orlando
+state: FL
+adoption_year: unknown
+source_url: https://www.orlando.gov/311
+source_type: official
+evidence_note: The City of Orlando has a 311 service distinct from Orange County's 311 (launched 2005), but Orlando's own 311 launch date could not be confirmed.

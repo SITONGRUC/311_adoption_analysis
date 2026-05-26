@@ -1,0 +1,6 @@
+city: Birmingham
+state: AL
+adoption_year: 1999
+source_url: https://www.birminghamal.gov/311/
+source_type: official
+evidence_note: Birmingham AL launched its 311 system in 1999.

@@ -1,0 +1,6 @@
+city: Jacksonville
+state: FL
+adoption_year: unknown
+source_url: https://www.coj.net/311
+source_type: official
+evidence_note: Jacksonville has a 311 service (MyJax portal launched 2019), but the original 311 launch date could not be verified from available sources.

@@ -1,0 +1,6 @@
+city: McKinney
+state: TX
+adoption_year: unknown
+source_url: https://www.mckinneytexas.org/services
+source_type: official
+evidence_note: No evidence of a formal dedicated 311 system was found for McKinney; city uses departmental contacts for non-emergency service requests.

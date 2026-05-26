@@ -1,0 +1,6 @@
+city: Seattle
+state: WA
+adoption_year: unknown
+source_url: https://www.seattle.gov/customer-service-bureau
+source_type: official
+evidence_note: Seattle operates a Customer Service Bureau (established 1965) and routes calls through 311, but the specific year the 311 number was activated could not be confirmed.

@@ -1,0 +1,6 @@
+city: Cary
+state: NC
+adoption_year: 2020
+source_url: https://www.carync.gov/Home/Components/News/News/15210/
+source_type: official
+evidence_note: 311Cary launched on January 2, 2020 as the first 311 system in the Triangle area, per a Town of Cary press release.

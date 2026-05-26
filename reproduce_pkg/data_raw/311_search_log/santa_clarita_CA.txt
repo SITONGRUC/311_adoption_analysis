@@ -1,0 +1,6 @@
+city: Santa Clarita
+state: CA
+adoption_year: unknown
+source_url: https://www.santa-clarita.com/report
+source_type: official
+evidence_note: Santa Clarita uses the GOGov Resident Service Center for issue reporting, but no 311 launch year was found in available sources.

@@ -1,0 +1,61 @@
+\section{Descriptive Analysis}
+
+% \paragraph{Timing.}
+Figure~\ref{fig:timing} shows annual and cumulative documented 311 adoptions for the 99 cities with verified launch years. Adoption was gradual rather than concentrated in a single wave: Baltimore adopted in 1996, Chicago and Houston followed in 1999, and uptake continued through the 2000s and 2010s. The figure has two limits. First, 148 additional cities are confirmed 311 adopters but lack verifiable launch years, so the chart understates total prevalence. Second, recent years may be overstated because 2026 web searches more easily recover current launch announcements, creating possible ascertainment bias.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.82\linewidth]{figures/fig_adoption_timing.png}
+  \caption{Timing of formal 311 adoption
+  % , 99 US cities with verified launch year.
+  %   Bars: new adopters per year (left axis).
+  %   Line: cumulative adopters (right axis).
+  %   148 additional cities with confirmed 311 but unknown launch year are not shown.
+  %   Recent years may be overstated due to ascertainment bias.
+    }
+  \label{fig:timing}
+\end{figure}
+
+% \paragraph{Geography.}
+Figure~\ref{fig:region} plots within-region adoption shares across the 301 cities in
+the main sample.
+The Northeast has the highest share of cities with a documented formal-311 year
+(52\,\% of 27 cities), while the West contributes 124 cities (mostly California)
+but the lowest documented-year share (23\,\%).
+California cities frequently operate 311-adjacent platforms under proprietary branding
+without accessible launch records, placing the majority in the ``adopted, year
+unknown'' category.
+Across all four regions, the unknown-year segment is substantial, indicating that
+the 99-city timing sample undercounts total 311 prevalence and skews toward cities
+with stronger documentation practices.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.82\linewidth]{figures/fig_adoption_region.png}
+  \caption{311 adoption status by Census region, 301 cities.
+    Bars show within-region shares across three adoption statuses.
+    City counts per region are shown at right.}
+  \label{fig:region}
+\end{figure}
+
+% \paragraph{Adopter profile.}
+Table~\ref{tab:summary} compares cities across adoption-status groups.
+Cities with documented formal-311 adoption years are substantially larger (mean
+population 497k) than both unknown-year adopters (176k) and non-adopters (236k).
+This size gradient has two implications.
+First, the timing analysis in Figure~\ref{fig:timing} reflects large-city diffusion
+trajectories, not the full distribution of cities above 100{,}000 residents.
+Second, the regression sample in Section~3 skews toward better-documented, larger
+cities; any fiscal associations estimated there apply primarily to that subpopulation.
+
+\begin{table}[H]
+  \centering
+  \caption{City characteristics by 311 adoption status.
+    Population in thousands.
+    Regional shares are within-group: the percentage of each group's cities
+    located in each Census region.}
+  \label{tab:summary}
+  \resizebox{\textwidth}{!}{%
+    \input{../results/tables/tab_adopter_summary.tex}%
+  }
+\end{table}

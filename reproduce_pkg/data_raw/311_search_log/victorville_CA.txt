@@ -1,0 +1,6 @@
+city: Victorville
+state: CA
+adoption_year: 2025
+source_url: https://www.vvng.com/victorville-launches-victorville-now-app-to-streamline-non-emergency-service-requests/
+source_type: news
+evidence_note: Victorville launched the "Victorville NOW" app for non-emergency service requests in July 2025, per Victor Valley News.

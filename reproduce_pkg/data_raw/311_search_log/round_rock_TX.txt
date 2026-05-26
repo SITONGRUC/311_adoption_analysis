@@ -1,0 +1,6 @@
+city: Round Rock
+state: TX
+adoption_year: unknown
+source_url: https://www.roundrocktexas.gov/services
+source_type: official
+evidence_note: Round Rock has a city services portal for requests; no formal 311 system or specific launch year was found.

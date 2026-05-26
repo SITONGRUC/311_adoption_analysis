@@ -1,0 +1,6 @@
+city: Lancaster
+state: CA
+adoption_year: unknown
+source_url: https://www.cityoflancasterca.org/inform-lancaster
+source_type: official
+evidence_note: Lancaster uses the "Inform Lancaster" app for service requests; no 311 number or launch year was found.

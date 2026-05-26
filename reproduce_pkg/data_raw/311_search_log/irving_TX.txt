@@ -1,0 +1,6 @@
+city: Irving
+state: TX
+adoption_year: unknown
+source_url: https://irvingtx.qscend.com/311/
+source_type: official
+evidence_note: Irving operates a "Report A Concern" 311 portal on the Qscend platform, but the launch year could not be confirmed.

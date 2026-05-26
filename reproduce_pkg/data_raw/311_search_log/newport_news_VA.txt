@@ -1,0 +1,6 @@
+city: Newport News
+state: VA
+adoption_year: 2013
+source_url: https://oysterpointer.net/newport-news-311-an-asset-to-the-city/
+source_type: news
+evidence_note: Newport News 311 Contact Center opened in March 2013, per the Oyster Pointer.

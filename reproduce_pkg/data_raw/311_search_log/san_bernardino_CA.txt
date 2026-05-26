@@ -1,0 +1,6 @@
+city: San Bernardino
+state: CA
+adoption_year: unknown
+source_url: https://www.sbcity.org/city_hall/departments/public_works
+source_type: official
+evidence_note: No evidence of a formal 311 system for San Bernardino; city uses department-level non-emergency lines.

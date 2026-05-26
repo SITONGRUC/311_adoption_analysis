@@ -1,0 +1,6 @@
+city: Lexington-Fayette
+state: KY
+adoption_year: unknown
+source_url: https://www.lexingtonky.gov/living/lexcall-311
+source_type: official
+evidence_note: Official LexingtonKY.gov page describes LexCall 311 as the city's centralized call center; indirect evidence (8,500 calls during 2009 ice storm) suggests service existed at least since 2000, but no confirmed launch year was found.

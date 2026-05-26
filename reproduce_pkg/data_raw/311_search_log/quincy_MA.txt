@@ -1,0 +1,6 @@
+city: Quincy
+state: MA
+adoption_year: unknown
+source_url: https://seeclickfix.com/quincy
+source_type: secondary
+evidence_note: Quincy MA uses SeeClickFix (now closed to new requests) for citizen service; no dedicated 311 number or verifiable launch year was found.

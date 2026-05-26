@@ -1,0 +1,6 @@
+city: Syracuse
+state: NY
+adoption_year: unknown
+source_url: https://www.syr.gov/Departments/Public-Works/SYRCityline
+source_type: official
+evidence_note: Syracuse operates SYRCityline (SeeClickFix) for citizen service requests; a new mobile app launched in August 2021 but the original service launch year was not found.

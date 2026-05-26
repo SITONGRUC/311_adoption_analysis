@@ -1,0 +1,6 @@
+city: Buffalo
+state: NY
+adoption_year: 2000
+source_url: https://data.buffalony.gov/stories/s/311-Call-and-Resolution-Center/k7b6-fw5y/
+source_type: official
+evidence_note: City of Buffalo's Open Data portal states the 311 Call and Resolution Center (formerly the Mayor's Complaint Line) was created in July 2000.

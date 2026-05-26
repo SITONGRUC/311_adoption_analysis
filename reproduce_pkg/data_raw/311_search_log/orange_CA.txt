@@ -1,0 +1,6 @@
+city: Orange
+state: CA
+adoption_year: unknown
+source_url: https://www.cityoforange.org/residents/orange-24-7
+source_type: official
+evidence_note: City of Orange operates "Orange 24/7" app for service requests; no launch year or evidence of a formal 311 phone number was found.

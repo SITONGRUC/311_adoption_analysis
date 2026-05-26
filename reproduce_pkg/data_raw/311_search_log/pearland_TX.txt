@@ -1,0 +1,6 @@
+city: Pearland
+state: TX
+adoption_year: unknown
+source_url: https://www.pearlandtx.gov/connect2pearland
+source_type: official
+evidence_note: Pearland uses the "Connect2Pearland" app (CitySourced) for citizen service requests; no specific launch year was found.

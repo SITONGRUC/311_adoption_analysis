@@ -1,0 +1,6 @@
+city: Thornton
+state: CO
+adoption_year: unknown
+source_url: https://thorntonco.qscend.com/311/
+source_type: official
+evidence_note: Thornton operates "My Thornton" on the Qscend 311 platform for citizen service requests; no specific launch year was found.

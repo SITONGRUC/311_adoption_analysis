@@ -1,0 +1,6 @@
+city: New York
+state: NY
+adoption_year: 2003
+source_url: https://www.nyc.gov/311/
+source_type: official
+evidence_note: NYC 311 launched March 9, 2003 under Mayor Bloomberg as a citywide non-emergency service line.

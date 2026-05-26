@@ -1,0 +1,6 @@
+city: Elizabeth
+state: NJ
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No dedicated 311 system was found for Elizabeth NJ; city lists departmental contacts without a unified 311 service.

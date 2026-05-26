@@ -1,0 +1,6 @@
+city: Fort Wayne
+state: IN
+adoption_year: 2007
+source_url: https://www.cityoffortwayne.org/latest-news/3753-city-celebrate-311-call-center-s-10-years-of-service.html
+source_type: official
+evidence_note: City of Fort Wayne's official 10-year anniversary press release (May 2017) confirms the 311 Call Center launched in 2007 as the first such center in Indiana, having handled more than 1.5 million calls since inception.

@@ -1,0 +1,6 @@
+city: Stockton
+state: CA
+adoption_year: unknown
+source_url: https://www.stocktonca.gov/311
+source_type: official
+evidence_note: Stockton uses an "Ask Stockton" service request system, but it is unclear whether a formal 311 number is operational and when it launched.

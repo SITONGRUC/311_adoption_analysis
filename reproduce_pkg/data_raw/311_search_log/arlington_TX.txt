@@ -1,0 +1,6 @@
+city: Arlington
+state: TX
+adoption_year: no_311
+source_url: https://www.arlingtontx.gov/city_hall/departments/office_of_communications/action_center
+source_type: official
+evidence_note: Arlington TX uses an Action Center (817-459-6777) for non-emergency requests and does not operate a 311 system.

@@ -1,0 +1,6 @@
+city: Gilbert
+state: AZ
+adoption_year: 2017
+source_url: https://www.gilbertaz.gov/government/gilbert-311
+source_type: official
+evidence_note: Gilbert partnered with SeeClickFix to launch "Gilbert 311" in May 2017.

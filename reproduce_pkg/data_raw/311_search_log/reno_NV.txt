@@ -1,0 +1,6 @@
+city: Reno
+state: NV
+adoption_year: 2018
+source_url: https://www.washoecounty.gov/311/
+source_type: news
+evidence_note: Washoe County (which serves Reno) launched Washoe311 in May 2018; Reno routes non-emergency requests through this county system.

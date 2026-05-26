@@ -1,0 +1,6 @@
+city: St. Louis
+state: MO
+adoption_year: unknown
+source_url: https://www.stlouis-mo.gov/government/departments/street/citizens-service-bureau/
+source_type: official
+evidence_note: St. Louis has a long-running Citizens Service Bureau for non-emergency requests; a formal 311 phone number launch year could not be confirmed.

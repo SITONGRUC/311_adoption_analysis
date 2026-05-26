@@ -1,0 +1,6 @@
+city: Federal Way
+state: WA
+adoption_year: unknown
+source_url: https://seeclickfix.com/federal-way
+source_type: secondary
+evidence_note: Federal Way WA uses SeeClickFix ("Eyes on Federal Way" app) for citizen reporting; no dedicated 311 number or verifiable launch year was found.

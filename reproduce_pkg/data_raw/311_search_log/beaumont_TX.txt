@@ -1,0 +1,6 @@
+city: Beaumont
+state: TX
+adoption_year: unknown
+source_url: https://www.beaumonttexas.gov/311
+source_type: official
+evidence_note: Beaumont has a 311 service that was operational by at least 2012, but the exact launch year could not be confirmed from available sources.

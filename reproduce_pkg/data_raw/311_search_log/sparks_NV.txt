@@ -1,0 +1,6 @@
+city: Sparks
+state: NV
+adoption_year: unknown
+source_url: https://www.washoecounty.gov/311/
+source_type: secondary
+evidence_note: Sparks is served by county-level Washoe311 (public launch ~2018); no city-specific 311 system was found for Sparks.

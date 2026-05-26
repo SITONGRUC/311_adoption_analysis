@@ -1,0 +1,6 @@
+city: Aurora
+state: CO
+adoption_year: no_311
+source_url: https://www.auroragov.org/residents/access_aurora
+source_type: official
+evidence_note: Aurora CO uses "Access Aurora" (303-739-7000) for non-emergency service requests and does not operate a 311 number.

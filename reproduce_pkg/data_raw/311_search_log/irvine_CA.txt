@@ -1,0 +1,6 @@
+city: Irvine
+state: CA
+adoption_year: no_311
+source_url: https://www.cityofirvine.org/public-works/report-issue
+source_type: official
+evidence_note: Irvine uses an online portal and Access Irvine app for service requests but does not operate a 311 phone number.

@@ -1,0 +1,6 @@
+city: Manchester
+state: NH
+adoption_year: 2017
+source_url: https://manchester.inklink.news/manchester-connect-see-click-fix-app-serves-as-a-city-wide-neighborhood-watch-group/
+source_type: news
+evidence_note: Manchester NH launched "Manchester Connect" SeeClickFix approximately in 2017, per Manchester Ink Link reporting.

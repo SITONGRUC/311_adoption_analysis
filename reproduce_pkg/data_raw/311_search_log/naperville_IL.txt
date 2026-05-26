@@ -1,0 +1,6 @@
+city: Naperville
+state: IL
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No citywide 311 system was found for Naperville; the park district uses a "311 Parks" internal tracking system (2018) but there is no city-operated 311 line.

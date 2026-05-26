@@ -1,0 +1,6 @@
+city: Charlotte
+state: NC
+adoption_year: 2005
+source_url: https://charlottenc.gov/Services/Pages/311.aspx
+source_type: official
+evidence_note: Charlotte launched its 311 system in 2005.

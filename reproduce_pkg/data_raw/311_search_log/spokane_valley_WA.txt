@@ -1,0 +1,6 @@
+city: Spokane Valley
+state: WA
+adoption_year: 2018
+source_url: https://www.spokanejournal.com/local-news/spokane-valley-launches-new-infrastructure-reporting-system/
+source_type: news
+evidence_note: Spokane Valley launched the SVexpress 311 app in 2018, funded through the city's 2018 budget, per the Spokane Journal of Business.

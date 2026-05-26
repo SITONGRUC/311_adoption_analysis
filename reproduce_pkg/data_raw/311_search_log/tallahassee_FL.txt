@@ -1,0 +1,6 @@
+city: Tallahassee
+state: FL
+adoption_year: no_311
+source_url: https://www.talgov.com/residents/residents.aspx
+source_type: official
+evidence_note: Tallahassee uses the DigiTally app and a direct CDA non-emergency number for service requests; no 311 system was found.

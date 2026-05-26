@@ -1,0 +1,6 @@
+city: Chesapeake
+state: VA
+adoption_year: 2017
+source_url: https://www.cinemassive.com/case-studies/city-of-chesapeake-public-safety-operations-center/
+source_type: secondary
+evidence_note: Chesapeake's Public Safety Operations Center (PSOC), which houses the 311 Non-Emergency Call Center, was completed in December 2017.

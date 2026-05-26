@@ -1,0 +1,6 @@
+city: Tempe
+state: AZ
+adoption_year: 2012
+source_url: https://www.wranglernews.com/2012/06/16/tempe-311-one-stop-city-services/
+source_type: news
+evidence_note: Tempe 311 is described as an existing service by a June 2012 news article; the mobile app launched in 2013.

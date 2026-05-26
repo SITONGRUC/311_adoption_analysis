@@ -1,0 +1,6 @@
+city: Fullerton
+state: CA
+adoption_year: no_311
+source_url: none
+source_type: official
+evidence_note: No dedicated 311 system was found for Fullerton CA; city uses a service request form via Public Works (714-738-6897) but no 311 service.

@@ -1,0 +1,6 @@
+city: Lincoln
+state: NE
+adoption_year: no_311
+source_url: https://lincoln.ne.gov/city/uplnk
+source_type: official
+evidence_note: Lincoln uses the UPLNK app (SeeClickFix-based) for service requests and does not operate a 311 phone number.

@@ -1,0 +1,6 @@
+city: Simi Valley
+state: CA
+adoption_year: unknown
+source_url: https://seeclickfix.com/simi-valley
+source_type: secondary
+evidence_note: Simi Valley uses SeeClickFix for citizen service requests; no specific launch year was found.

@@ -1,0 +1,6 @@
+city: Nampa
+state: ID
+adoption_year: unknown
+source_url: https://seeclickfix.com/nampa
+source_type: secondary
+evidence_note: Nampa ID uses SeeClickFix for citizen reporting; no dedicated 311 number or verifiable launch year was found.

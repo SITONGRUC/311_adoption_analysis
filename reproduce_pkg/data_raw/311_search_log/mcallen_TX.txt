@@ -1,0 +1,6 @@
+city: McAllen
+state: TX
+adoption_year: unknown
+source_url: https://www.mcallen.net/departments/311
+source_type: official
+evidence_note: McAllen operates a 311 call center and mobile app (CitySourced) for citizen requests; no specific launch year was found.

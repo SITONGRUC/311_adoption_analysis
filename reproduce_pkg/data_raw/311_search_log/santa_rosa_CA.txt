@@ -1,0 +1,6 @@
+city: Santa Rosa
+state: CA
+adoption_year: no_311
+source_url: https://www.srcity.org/services
+source_type: official
+evidence_note: Santa Rosa uses direct department phone numbers and a citizen permit portal for service requests; no 311 system was found.
